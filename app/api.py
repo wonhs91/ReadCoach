@@ -8,6 +8,8 @@ from __future__ import annotations
 from typing import Any, Dict
 
 from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 from pydantic import BaseModel, Field
 from langchain_core.messages import HumanMessage
 
@@ -18,6 +20,14 @@ load_dotenv()
 
 # FastAPI application for the ReadCoach chat interface
 app = FastAPI(title="ReadCoach API", version="0.1.0")
+
+# Mount static files
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+@app.get("/")
+def read_root():
+    """Serve the main chat UI."""
+    return FileResponse("static/index.html")
 
 class ChatRequest(BaseModel):
     """Request model for chat endpoint."""
@@ -47,5 +57,4 @@ def chat(req: ChatRequest) -> Dict[str, Any]:
     return {
         "thread_id": req.thread_id,
         "answer": getattr(last, "content", ""),  # The AI librarian's response
-        "raw_messages": [m.to_dict() for m in result["messages"]],  # Full conversation trace for debugging
     }

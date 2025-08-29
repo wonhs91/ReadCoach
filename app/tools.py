@@ -14,8 +14,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_core.runnables import RunnableConfig
 from langchain_openai import OpenAIEmbeddings
 
-from .config import FAISS_DIR, ITEM_SIM_PATH, CATALOG_CACHE, EMBED_MODEL, DEFAULT_MIN_AGE, DEFAULT_MAX_AGE
-from . import recs
+from .config import FAISS_DIR, CATALOG_CACHE, EMBED_MODEL
 
 records = json.loads(Path(CATALOG_CACHE).read_text(encoding="utf-8"))
 _catalog_index = {str(r["book_id"]): r for r in records}

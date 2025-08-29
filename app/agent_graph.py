@@ -10,9 +10,12 @@ from langgraph.graph import StateGraph, MessagesState, START, END
 from langgraph.prebuilt import ToolNode, tools_condition
 from langgraph.checkpoint.memory import InMemorySaver
 from langgraph.store.memory import InMemoryStore
+from dotenv import load_dotenv
 
 from .tools import get_book_details, get_book_recommendation, set_profile
 from .config import OPENAI_MODEL
+
+load_dotenv()
 
 # System prompt that defines the AI librarian's personality and behavior
 SYSTEM_PROMPT = SystemMessage(content=(
