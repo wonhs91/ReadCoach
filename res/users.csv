@@ -1,0 +1,1501 @@
+user_id,age,country,preferred_genres,favorite_authors
+u_00000,63,US,Children;Philosophy,a_0076;a_0227;a_0114;a_0001;a_0552
+u_00001,49,UK,Science Fiction;Thriller,a_0489;a_0345;a_0483;a_0045
+u_00002,26,NL,Philosophy;Fantasy;Romance,a_0162;a_0511
+u_00003,38,PL,Science Fiction;History;Poetry,
+u_00004,33,SE,History,
+u_00005,30,ES,Classics;Young Adult;Mystery,a_0498;a_0186;a_0193
+u_00006,33,ES,Business;Mystery,a_0227;a_0366;a_0285;a_0022
+u_00007,61,PL,Mystery;History,a_0675;a_0535
+u_00008,18,IT,Children,
+u_00009,25,SE,Non-Fiction;Business,a_0682;a_0589;a_0528;a_0288;a_0345
+u_00010,62,BR,Classics,a_0112;a_0389;a_0591
+u_00011,47,BR,Mystery,a_0291;a_0699;a_0689;a_0039
+u_00012,26,SE,Non-Fiction;History,
+u_00013,30,IN,Graphic Novels,a_0381;a_0307
+u_00014,62,DE,Historical;Romance;Graphic Novels,a_0231;a_0548
+u_00015,68,US,Philosophy;Historical;Graphic Novels,a_0333;a_0205;a_0216;a_0060;a_0625
+u_00016,48,IT,History,a_0673
+u_00017,62,ES,Young Adult,a_0512;a_0364;a_0088;a_0097
+u_00018,30,IT,Young Adult;History,a_0330
+u_00019,28,IN,Biography,
+u_00020,36,BR,Poetry;Non-Fiction,a_0611;a_0169
+u_00021,57,SE,Poetry;Historical,a_0286
+u_00022,27,BR,Children;Philosophy,a_0145;a_0506;a_0329
+u_00023,31,MX,Philosophy,a_0227;a_0570
+u_00024,14,NL,Self-Help;Science Fiction;Horror,a_0614;a_0346;a_0502;a_0233;a_0171
+u_00025,71,MX,Philosophy;Biography;Poetry,a_0130
+u_00026,17,PL,Classics;Self-Help,a_0564;a_0605;a_0547
+u_00027,37,PL,Horror;Science Fiction;Fantasy,a_0661;a_0046;a_0615;a_0089
+u_00028,46,IT,Self-Help;Young Adult,a_0677
+u_00029,65,AU,Thriller;Philosophy,a_0378
+u_00030,39,SE,Philosophy;Children;History,a_0195;a_0153;a_0291;a_0271;a_0313
+u_00031,51,US,Horror,a_0026
+u_00032,54,IN,Biography,a_0262;a_0484;a_0079;a_0137;a_0178
+u_00033,63,US,Poetry;Thriller,a_0448
+u_00034,35,ES,Historical;Fantasy;Classics,a_0692;a_0401
+u_00035,47,BR,Young Adult,a_0391;a_0565;a_0124
+u_00036,43,FR,Philosophy;Romance,
+u_00037,74,IN,Business;Graphic Novels,a_0428;a_0477;a_0476;a_0179
+u_00038,36,UK,Romance;Self-Help;Thriller,a_0119;a_0581;a_0278;a_0216;a_0671
+u_00039,42,DE,Non-Fiction,a_0362;a_0130
+u_00040,18,MX,Business;Historical;History,a_0395;a_0651;a_0394
+u_00041,25,NL,Fantasy;Business,
+u_00042,65,ES,Poetry;Philosophy,a_0653;a_0330
+u_00043,73,MX,Self-Help,a_0536;a_0117;a_0352;a_0106
+u_00044,21,IT,Self-Help;Biography,a_0667;a_0252
+u_00045,74,UK,Thriller;Mystery;Young Adult,a_0403;a_0510;a_0571;a_0224
+u_00046,36,IT,Science Fiction;Self-Help;Biography,a_0172;a_0068;a_0379;a_0447;a_0076
+u_00047,44,BR,Mystery,a_0179
+u_00048,39,NL,Fantasy;Mystery,a_0679;a_0017;a_0024
+u_00049,58,FR,Business,a_0110;a_0080;a_0421
+u_00050,49,IT,Mystery;Horror,
+u_00051,65,SE,Classics;History,a_0505;a_0581;a_0460;a_0428;a_0173
+u_00052,19,ES,History;Self-Help;Science Fiction,a_0266;a_0082;a_0645
+u_00053,66,US,Self-Help;Non-Fiction;Graphic Novels,
+u_00054,58,CA,Horror;Mystery,a_0207;a_0166;a_0419;a_0652;a_0401
+u_00055,21,DE,Horror;Graphic Novels,a_0542;a_0180;a_0476;a_0320;a_0453
+u_00056,15,SE,Poetry;Young Adult,a_0308;a_0121;a_0316
+u_00057,24,AU,Young Adult;Graphic Novels;Fantasy,
+u_00058,24,IT,Young Adult;Thriller;Children,a_0365;a_0509;a_0049;a_0489
+u_00059,25,FR,Young Adult;Biography;Classics,
+u_00060,44,IT,Horror;Poetry,a_0666;a_0673;a_0614;a_0394
+u_00061,67,AU,Romance;Philosophy;Children,a_0539;a_0280;a_0199;a_0098;a_0535
+u_00062,64,IN,Poetry;Biography;Self-Help,a_0455;a_0534;a_0302;a_0623
+u_00063,60,AU,Children,
+u_00064,74,BR,Mystery;Thriller;Horror,a_0189;a_0236;a_0234;a_0307;a_0318
+u_00065,36,MX,Thriller,a_0217;a_0014;a_0017;a_0478
+u_00066,25,NL,Fantasy;Philosophy;Science Fiction,
+u_00067,38,FR,Philosophy;Young Adult,a_0676;a_0168;a_0210;a_0488;a_0091
+u_00068,30,MX,Science Fiction,
+u_00069,72,BR,Young Adult;Children;Classics,a_0232;a_0073;a_0531;a_0368
+u_00070,51,PL,Children,a_0185;a_0174;a_0477;a_0451;a_0611
+u_00071,21,PL,Children;Romance;Business,a_0122
+u_00072,43,SE,Classics,a_0120;a_0438
+u_00073,71,NL,Self-Help;Mystery,a_0268;a_0181;a_0060;a_0286;a_0325
+u_00074,18,IT,Self-Help;Philosophy,a_0547;a_0290
+u_00075,71,CA,Children,a_0111;a_0315;a_0332
+u_00076,54,MX,Non-Fiction;Young Adult,
+u_00077,67,DE,Biography;Poetry;Historical,a_0250
+u_00078,49,SE,Self-Help;Romance,a_0464;a_0335;a_0652
+u_00079,43,SE,Fantasy,a_0138
+u_00080,32,ES,Thriller;History,a_0029;a_0198
+u_00081,15,ES,History,
+u_00082,53,PL,Thriller;Classics;Historical,
+u_00083,19,NL,Young Adult;Self-Help;Graphic Novels,a_0591;a_0292;a_0671;a_0594
+u_00084,53,NL,Young Adult,
+u_00085,43,SE,Children;Philosophy;Romance,
+u_00086,36,FR,Graphic Novels,a_0618;a_0154;a_0371;a_0255
+u_00087,31,NO,Business;Young Adult,a_0368;a_0061
+u_00088,52,IT,Self-Help;Young Adult;Fantasy,a_0550;a_0687;a_0614;a_0344;a_0410
+u_00089,23,NO,Romance,a_0320;a_0086;a_0023;a_0440;a_0247
+u_00090,15,PL,Thriller;Business;Children,a_0496
+u_00091,25,CA,History;Young Adult;Poetry,a_0106;a_0338
+u_00092,16,BR,Thriller;Philosophy,
+u_00093,21,AU,Fantasy,a_0388;a_0557;a_0071;a_0561;a_0686
+u_00094,30,DE,Self-Help,a_0340
+u_00095,31,SE,History;Science Fiction;Mystery,a_0054;a_0461;a_0658;a_0510
+u_00096,23,SE,Self-Help;Thriller;Biography,a_0341
+u_00097,40,UK,Romance;Thriller;Mystery,a_0294;a_0286;a_0602
+u_00098,60,NL,Young Adult;Biography,a_0347;a_0168;a_0131;a_0484;a_0073
+u_00099,49,IT,Classics;Business;Graphic Novels,a_0443;a_0245;a_0619
+u_00100,43,CA,Graphic Novels;Biography;Thriller,a_0353;a_0323
+u_00101,30,CA,Poetry;Historical,a_0261;a_0007;a_0132;a_0168;a_0198
+u_00102,55,AU,Young Adult;Graphic Novels;Non-Fiction,a_0290;a_0616;a_0409;a_0071;a_0607
+u_00103,52,CA,Classics,
+u_00104,50,BR,Science Fiction;Biography;Fantasy,
+u_00105,47,IT,Fantasy;History;Mystery,a_0219;a_0696;a_0551
+u_00106,45,UK,Business;Graphic Novels;History,a_0025;a_0083;a_0460
+u_00107,28,NO,Classics;Non-Fiction;History,a_0656;a_0083;a_0119;a_0233
+u_00108,18,ES,Historical;Classics,a_0248;a_0224;a_0516
+u_00109,65,IT,Philosophy;Non-Fiction,a_0416;a_0289
+u_00110,26,DE,Biography,a_0563;a_0389;a_0317;a_0000;a_0043
+u_00111,48,AU,Fantasy;History,a_0509;a_0542;a_0125
+u_00112,65,AU,Thriller;Horror;History,
+u_00113,71,IN,History;Biography;Philosophy,a_0298;a_0692;a_0162
+u_00114,44,US,Poetry;Mystery;Children,a_0007
+u_00115,47,US,Self-Help;Horror;Science Fiction,a_0151;a_0471
+u_00116,58,FR,Non-Fiction,a_0688;a_0382
+u_00117,34,MX,Self-Help,a_0038;a_0110;a_0375;a_0452;a_0542
+u_00118,19,DE,Non-Fiction,a_0131;a_0016;a_0693;a_0412
+u_00119,47,FR,Thriller,
+u_00120,38,NL,Young Adult;Mystery;Thriller,a_0005
+u_00121,53,CA,Biography;Historical;Mystery,a_0184;a_0556;a_0463;a_0450;a_0206
+u_00122,48,CA,Self-Help;Romance,a_0691;a_0074;a_0672;a_0507;a_0681
+u_00123,61,PL,Classics;Poetry;Thriller,
+u_00124,48,PL,Non-Fiction,a_0603
+u_00125,69,MX,Mystery;Horror;Non-Fiction,a_0170
+u_00126,23,IN,Business;Poetry;Historical,a_0057;a_0666
+u_00127,54,US,Business,a_0249;a_0146;a_0615
+u_00128,69,NO,Historical,a_0526;a_0213;a_0231;a_0347;a_0539
+u_00129,71,UK,Self-Help;Historical;Science Fiction,a_0631;a_0481
+u_00130,45,FR,Philosophy,a_0253;a_0359;a_0505;a_0519
+u_00131,59,ES,Graphic Novels;Classics;Non-Fiction,a_0434;a_0619;a_0639
+u_00132,66,UK,Mystery;Thriller;Self-Help,a_0354;a_0029
+u_00133,73,BR,Self-Help,
+u_00134,27,AU,Business;Philosophy,a_0130;a_0253;a_0557;a_0574;a_0088
+u_00135,32,UK,Non-Fiction,a_0108;a_0317
+u_00136,43,IN,Horror,a_0012;a_0447;a_0019;a_0025;a_0448
+u_00137,21,AU,Poetry,
+u_00138,40,IT,Young Adult;Non-Fiction,a_0003
+u_00139,72,DE,Romance;Fantasy;Philosophy,a_0123;a_0644;a_0375
+u_00140,40,FR,Thriller;Romance,a_0413;a_0056;a_0477
+u_00141,46,NO,Non-Fiction;Romance;Poetry,
+u_00142,63,FR,Graphic Novels;Fantasy,a_0008;a_0411;a_0388
+u_00143,43,NO,Children;Biography,a_0676;a_0135;a_0510
+u_00144,73,US,Mystery;Young Adult,
+u_00145,62,NO,Thriller;Classics;Historical,a_0589;a_0125;a_0129;a_0078
+u_00146,46,MX,Mystery;Children,a_0663;a_0169;a_0633;a_0399
+u_00147,15,IN,Science Fiction;Young Adult,a_0319;a_0086;a_0299;a_0437;a_0159
+u_00148,17,DE,Business,a_0260;a_0139
+u_00149,63,MX,Classics,a_0557;a_0116
+u_00150,67,CA,Historical,a_0164
+u_00151,43,PL,Non-Fiction;Philosophy;History,a_0179;a_0054
+u_00152,69,SE,Self-Help,
+u_00153,23,PL,Science Fiction;Philosophy,
+u_00154,50,IN,Science Fiction,a_0273;a_0678;a_0013;a_0476
+u_00155,34,BR,History;Classics,a_0207;a_0293
+u_00156,17,NL,Historical;Science Fiction,
+u_00157,32,UK,Business;Children;Poetry,a_0616;a_0374;a_0329;a_0079;a_0633
+u_00158,52,SE,Philosophy;Thriller,a_0205;a_0356
+u_00159,51,US,Business,a_0018;a_0663;a_0298;a_0323
+u_00160,70,MX,Philosophy,a_0082;a_0446;a_0129;a_0517
+u_00161,24,IT,Children;Young Adult;Biography,a_0608;a_0090
+u_00162,40,NO,Non-Fiction;Self-Help;History,a_0625
+u_00163,42,IT,Horror;Graphic Novels,a_0227;a_0161
+u_00164,31,PL,Fantasy;Young Adult,a_0272;a_0055
+u_00165,50,NO,Historical,a_0650;a_0208;a_0571;a_0122
+u_00166,41,UK,Romance,a_0643;a_0307;a_0082;a_0192;a_0666
+u_00167,52,UK,Horror;Historical;Children,a_0340;a_0127
+u_00168,59,NO,History,a_0619;a_0528
+u_00169,42,BR,Poetry,a_0445
+u_00170,39,BR,Mystery;Self-Help,a_0515;a_0690
+u_00171,71,NO,Non-Fiction;Business,a_0694;a_0448;a_0481
+u_00172,58,PL,Mystery,a_0582
+u_00173,63,UK,Thriller,a_0231;a_0323
+u_00174,34,PL,Science Fiction,a_0064;a_0153;a_0138;a_0561
+u_00175,57,IN,Non-Fiction;Children;Philosophy,a_0200;a_0378;a_0319
+u_00176,70,US,Historical;Science Fiction;Business,
+u_00177,70,IN,Horror,a_0664;a_0361;a_0570;a_0115;a_0030
+u_00178,68,UK,History;Non-Fiction;Philosophy,
+u_00179,72,CA,Fantasy,a_0278;a_0160;a_0315;a_0303
+u_00180,64,NL,Young Adult;Mystery,a_0032;a_0362;a_0603;a_0618
+u_00181,39,UK,Science Fiction,
+u_00182,30,PL,History,a_0692;a_0555;a_0340
+u_00183,39,AU,Biography,
+u_00184,23,MX,Thriller;Science Fiction;Young Adult,a_0089;a_0016
+u_00185,20,FR,Business,a_0610;a_0609;a_0462
+u_00186,28,CA,Graphic Novels,a_0145;a_0175;a_0563
+u_00187,36,SE,Thriller;Classics,a_0208;a_0586;a_0547;a_0255;a_0221
+u_00188,28,DE,Fantasy,a_0082;a_0524;a_0025;a_0472;a_0164
+u_00189,15,SE,Non-Fiction,a_0134;a_0067;a_0216;a_0199
+u_00190,71,IT,Philosophy,a_0697;a_0211;a_0249;a_0661
+u_00191,43,NO,Self-Help,
+u_00192,36,IN,Biography,a_0668;a_0123;a_0096;a_0089
+u_00193,72,IT,Children,a_0131;a_0087;a_0639;a_0509;a_0020
+u_00194,23,SE,Business;Romance,a_0474;a_0243;a_0266
+u_00195,14,PL,Thriller;Science Fiction,
+u_00196,69,UK,Horror,a_0096
+u_00197,32,CA,Historical,a_0566;a_0486;a_0649;a_0432
+u_00198,45,NL,Self-Help;Science Fiction;Graphic Novels,a_0487
+u_00199,62,FR,Fantasy,a_0160;a_0493;a_0589;a_0616
+u_00200,62,FR,Mystery;Graphic Novels;Horror,a_0270
+u_00201,18,PL,Children,a_0424;a_0207
+u_00202,52,CA,Fantasy,a_0111;a_0028
+u_00203,34,UK,Fantasy,a_0617
+u_00204,57,PL,Fantasy;Non-Fiction,a_0281;a_0173;a_0527;a_0019
+u_00205,31,AU,Historical;Self-Help,a_0371;a_0033;a_0097
+u_00206,21,IT,Biography;Mystery,a_0108;a_0155;a_0470
+u_00207,71,ES,Non-Fiction,
+u_00208,73,NO,Self-Help,a_0402;a_0329;a_0483;a_0331;a_0174
+u_00209,63,NO,Business;Graphic Novels;Children,a_0572;a_0185
+u_00210,21,US,Thriller,a_0679;a_0657;a_0630
+u_00211,61,AU,Horror,
+u_00212,69,PL,Mystery;Horror;Romance,a_0115;a_0282;a_0584
+u_00213,56,NO,Historical,a_0604
+u_00214,27,IT,Self-Help;Non-Fiction;Graphic Novels,
+u_00215,17,FR,Philosophy,
+u_00216,60,DE,Self-Help;History;Young Adult,a_0301;a_0251;a_0651;a_0173
+u_00217,24,IN,Children,a_0503;a_0381;a_0076;a_0594;a_0224
+u_00218,31,CA,History,a_0611;a_0674;a_0505;a_0576
+u_00219,55,UK,Science Fiction;Young Adult;Self-Help,a_0433;a_0553
+u_00220,34,DE,Science Fiction;Mystery,a_0653;a_0477;a_0182;a_0160;a_0455
+u_00221,54,FR,History;Biography;Fantasy,a_0202;a_0056;a_0477;a_0602
+u_00222,63,SE,Historical;Romance;Classics,a_0436;a_0089
+u_00223,26,NO,Self-Help;Science Fiction;Fantasy,a_0075;a_0474
+u_00224,33,ES,Young Adult;Poetry,
+u_00225,47,FR,Non-Fiction;Biography,a_0231
+u_00226,57,NL,Classics,a_0082;a_0426
+u_00227,68,NL,Business;Philosophy;Science Fiction,a_0597
+u_00228,66,AU,Business;Romance;Philosophy,a_0470;a_0384;a_0105;a_0407
+u_00229,68,CA,Classics;Self-Help,a_0468;a_0114;a_0658;a_0236
+u_00230,59,NO,Business;Fantasy,a_0569
+u_00231,62,NO,Science Fiction;Horror,a_0295
+u_00232,35,IN,Poetry,a_0252;a_0620;a_0264
+u_00233,22,ES,History,a_0196;a_0586;a_0193
+u_00234,25,NO,Science Fiction;Business,a_0474;a_0430
+u_00235,38,AU,Self-Help;Romance,a_0503;a_0371
+u_00236,28,CA,Biography,a_0657;a_0444;a_0573
+u_00237,64,NO,Romance;Classics,a_0386
+u_00238,63,ES,Fantasy,a_0109;a_0524;a_0417;a_0504
+u_00239,49,ES,Romance;Mystery;Biography,a_0667;a_0443;a_0464
+u_00240,24,MX,Classics;Business;Romance,a_0212
+u_00241,42,ES,Biography,
+u_00242,63,MX,Classics;Science Fiction,a_0161;a_0526;a_0523
+u_00243,72,IT,Historical,
+u_00244,18,PL,Poetry,a_0294;a_0077;a_0024
+u_00245,46,IN,Self-Help,a_0636;a_0619;a_0595;a_0524;a_0574
+u_00246,14,NO,Business;Non-Fiction,a_0301;a_0212;a_0345;a_0370;a_0478
+u_00247,22,NL,Fantasy,a_0641;a_0616;a_0288;a_0029;a_0024
+u_00248,57,FR,Business;Romance,a_0622
+u_00249,66,US,Mystery;Classics,a_0257;a_0002;a_0246;a_0166;a_0157
+u_00250,28,IT,Science Fiction;Graphic Novels;Fantasy,
+u_00251,38,CA,Business;Poetry;Children,a_0606;a_0615;a_0143
+u_00252,62,NO,Self-Help,a_0556;a_0092;a_0383;a_0025;a_0202
+u_00253,55,US,Romance;Mystery,a_0687;a_0447;a_0345;a_0572
+u_00254,39,SE,History;Philosophy,a_0276;a_0531
+u_00255,28,NO,Self-Help;Graphic Novels;Children,
+u_00256,62,IN,Classics;Young Adult,a_0017;a_0484;a_0002;a_0555
+u_00257,50,UK,Philosophy,a_0010;a_0532;a_0571;a_0300;a_0473
+u_00258,63,UK,Thriller;Classics,
+u_00259,55,FR,Non-Fiction;Romance;Children,a_0129;a_0566
+u_00260,59,FR,Biography;Self-Help;Poetry,
+u_00261,38,ES,Horror;Poetry;History,
+u_00262,52,NO,History,a_0698;a_0184
+u_00263,54,CA,Philosophy,a_0048;a_0415;a_0448;a_0538;a_0121
+u_00264,58,ES,Science Fiction;Young Adult;Poetry,a_0537;a_0079
+u_00265,29,US,Fantasy;Poetry;Romance,a_0485;a_0010
+u_00266,30,ES,Classics;History,a_0176;a_0548;a_0133
+u_00267,36,NO,Children,a_0699
+u_00268,58,US,Romance;Fantasy;Philosophy,a_0361;a_0146;a_0410;a_0530
+u_00269,56,NL,Fantasy;Business;Mystery,a_0589;a_0343;a_0659
+u_00270,73,MX,Biography;History;Poetry,a_0444;a_0090;a_0430
+u_00271,27,NL,Self-Help;Romance,a_0341;a_0647;a_0066;a_0180;a_0253
+u_00272,35,CA,Horror;Poetry;Thriller,a_0203;a_0573
+u_00273,25,MX,Romance;Science Fiction;Biography,a_0475;a_0013;a_0292;a_0570;a_0539
+u_00274,47,BR,Non-Fiction,a_0329
+u_00275,28,US,Thriller,a_0019;a_0098
+u_00276,53,NL,Horror;Non-Fiction,a_0012;a_0327;a_0094;a_0644
+u_00277,59,SE,Self-Help;Thriller;Children,a_0400;a_0670;a_0176
+u_00278,26,NO,Young Adult;Self-Help;Poetry,
+u_00279,53,NL,Science Fiction,a_0302;a_0605;a_0595;a_0086
+u_00280,16,MX,Children;History,
+u_00281,14,IN,Children;Biography,
+u_00282,56,DE,Self-Help,
+u_00283,70,ES,Graphic Novels,
+u_00284,41,ES,History;Mystery,a_0261;a_0139
+u_00285,45,MX,Romance;Classics;Historical,
+u_00286,47,NL,Non-Fiction;Thriller;Children,
+u_00287,37,SE,Self-Help,a_0594
+u_00288,15,IN,Romance;History,a_0350;a_0357;a_0699;a_0506;a_0694
+u_00289,27,PL,Philosophy;Mystery;Self-Help,a_0473
+u_00290,54,DE,Young Adult;Self-Help,a_0195;a_0320;a_0236;a_0044
+u_00291,63,SE,Horror;Young Adult;Biography,a_0609;a_0502;a_0302;a_0038;a_0280
+u_00292,73,SE,Children;Classics,a_0352
+u_00293,38,FR,Mystery;History,a_0210;a_0247;a_0195;a_0418;a_0552
+u_00294,52,MX,Poetry;Business;Horror,a_0404;a_0098
+u_00295,45,FR,History;Self-Help,a_0109;a_0177;a_0654
+u_00296,14,US,Thriller;Self-Help;Horror,
+u_00297,26,PL,History;Classics;Graphic Novels,
+u_00298,31,DE,Biography,a_0275;a_0059;a_0219;a_0160;a_0284
+u_00299,59,MX,Graphic Novels,a_0192;a_0392;a_0613
+u_00300,44,IN,Thriller,a_0680;a_0162;a_0090
+u_00301,37,BR,Horror;Children,a_0481;a_0454;a_0323;a_0097
+u_00302,33,MX,Poetry;Children,a_0064
+u_00303,44,CA,Philosophy;Business;Young Adult,a_0431;a_0654
+u_00304,19,SE,Science Fiction;Self-Help;Non-Fiction,a_0275
+u_00305,38,ES,Graphic Novels;Philosophy,
+u_00306,30,IT,Fantasy,a_0402;a_0004
+u_00307,58,NL,History;Graphic Novels,a_0214;a_0448;a_0646;a_0532;a_0546
+u_00308,48,AU,Non-Fiction,a_0476;a_0146;a_0583;a_0329;a_0202
+u_00309,32,MX,Romance,a_0157;a_0250;a_0497
+u_00310,46,IN,Classics;Romance;Non-Fiction,a_0069;a_0571
+u_00311,39,BR,History;Horror,a_0320;a_0683;a_0348;a_0161
+u_00312,31,NO,Romance;Science Fiction;Graphic Novels,a_0676;a_0041;a_0474;a_0260;a_0354
+u_00313,52,BR,Thriller;Business;Mystery,a_0381;a_0622;a_0500;a_0018;a_0238
+u_00314,37,NL,Classics,a_0517;a_0419;a_0362;a_0649
+u_00315,20,IT,Romance;Horror,
+u_00316,47,SE,Fantasy;Poetry;Biography,a_0018;a_0158
+u_00317,55,FR,Graphic Novels;Historical;Business,a_0650;a_0619;a_0188;a_0345;a_0243
+u_00318,28,MX,Children;Classics;Horror,a_0137;a_0502;a_0643
+u_00319,25,NO,Horror;Classics;Biography,a_0219
+u_00320,25,NO,History;Mystery,a_0442;a_0245;a_0501;a_0548;a_0204
+u_00321,42,NL,Fantasy;Thriller;Self-Help,
+u_00322,17,ES,History;Philosophy;Biography,a_0039;a_0105;a_0255;a_0630
+u_00323,43,NO,Poetry,a_0162;a_0469;a_0010;a_0380;a_0480
+u_00324,59,AU,Children;Biography;Business,a_0428;a_0326;a_0244
+u_00325,71,MX,Poetry,a_0199;a_0269
+u_00326,20,DE,Philosophy;Classics;Thriller,a_0661
+u_00327,26,UK,Historical;Self-Help;Children,a_0320;a_0384
+u_00328,57,US,Children;Poetry,a_0537
+u_00329,27,IN,Poetry;Young Adult;Thriller,a_0209;a_0569;a_0019;a_0235
+u_00330,23,FR,Biography;Graphic Novels,
+u_00331,42,ES,Graphic Novels;Non-Fiction;Business,a_0054
+u_00332,57,SE,Poetry;Thriller,
+u_00333,58,SE,Romance;Biography;Historical,
+u_00334,37,SE,Children;Horror,a_0236;a_0351
+u_00335,32,MX,Thriller;Science Fiction,a_0114;a_0346
+u_00336,46,CA,Business,
+u_00337,43,IN,Science Fiction;History;Biography,a_0436;a_0277;a_0263
+u_00338,37,IN,Young Adult,a_0251
+u_00339,33,DE,Historical,a_0285;a_0510;a_0046;a_0222;a_0586
+u_00340,19,AU,Self-Help;Graphic Novels;Mystery,
+u_00341,62,UK,Children;Horror,a_0255
+u_00342,44,IN,Biography,a_0374;a_0275;a_0293;a_0587
+u_00343,61,IN,Philosophy;Horror;Young Adult,a_0333;a_0537;a_0239;a_0234
+u_00344,29,DE,Business,
+u_00345,43,IN,Poetry,a_0298
+u_00346,48,FR,Young Adult;Horror,a_0286
+u_00347,33,NO,Children;Poetry,a_0570;a_0547;a_0034;a_0575;a_0326
+u_00348,47,NL,Classics;Philosophy;Young Adult,a_0638;a_0249;a_0251
+u_00349,33,CA,Non-Fiction,a_0317;a_0112
+u_00350,35,US,Young Adult;Children,a_0343
+u_00351,46,US,Classics,a_0020;a_0204
+u_00352,38,MX,Mystery;Biography;Children,
+u_00353,52,NO,Business;Thriller,a_0015;a_0675;a_0067
+u_00354,52,IN,Graphic Novels;Historical;Classics,a_0040;a_0029;a_0624;a_0006;a_0003
+u_00355,34,BR,History;Romance;Poetry,a_0553;a_0005;a_0094;a_0423
+u_00356,57,DE,History;Biography;Science Fiction,a_0023;a_0183;a_0005;a_0199;a_0382
+u_00357,71,AU,Romance;Classics,a_0257;a_0479;a_0643
+u_00358,19,PL,Business,a_0617;a_0333;a_0504;a_0112
+u_00359,23,NO,Fantasy;Horror;Young Adult,a_0331;a_0093;a_0545
+u_00360,64,DE,Classics;History,a_0691
+u_00361,26,SE,Philosophy;Horror;Graphic Novels,a_0676
+u_00362,20,ES,Mystery;Graphic Novels;Horror,a_0071;a_0072;a_0436
+u_00363,52,IN,Mystery;Science Fiction,a_0498;a_0303;a_0342;a_0154
+u_00364,49,UK,Historical;Business;Mystery,a_0322;a_0563
+u_00365,36,SE,Non-Fiction;Philosophy;Graphic Novels,a_0193;a_0599;a_0321;a_0284
+u_00366,32,US,History;Mystery,a_0272;a_0224;a_0064;a_0406;a_0299
+u_00367,26,PL,Fantasy;Children,
+u_00368,29,FR,Fantasy;Romance,a_0307;a_0542;a_0657;a_0213;a_0248
+u_00369,34,DE,Self-Help;Thriller;History,a_0275;a_0146
+u_00370,48,NL,Classics;Non-Fiction,a_0057
+u_00371,67,IN,Business,a_0001;a_0648
+u_00372,58,FR,Mystery;Poetry,a_0411;a_0512;a_0284
+u_00373,45,UK,History;Mystery,a_0656;a_0463;a_0585;a_0079;a_0200
+u_00374,23,US,Horror,a_0531;a_0241
+u_00375,32,NO,Children,a_0287;a_0016;a_0395
+u_00376,18,NL,Children;Non-Fiction;Fantasy,
+u_00377,56,UK,Historical;Mystery;Biography,a_0545;a_0086;a_0611
+u_00378,71,IT,Fantasy,a_0119;a_0248;a_0544;a_0137;a_0068
+u_00379,28,DE,Philosophy;Historical,a_0186;a_0581;a_0201;a_0355
+u_00380,54,BR,Children;Non-Fiction;Horror,a_0504;a_0086
+u_00381,21,SE,Mystery,a_0412;a_0088;a_0318;a_0512
+u_00382,60,US,Self-Help;Horror,
+u_00383,42,IT,Mystery;Classics,a_0357;a_0304;a_0494
+u_00384,71,FR,Non-Fiction;Business;Fantasy,a_0603
+u_00385,65,AU,Children,a_0181;a_0459
+u_00386,30,NO,History;Romance,a_0148;a_0286;a_0443;a_0100
+u_00387,17,SE,Non-Fiction;Poetry,
+u_00388,60,BR,Classics;Mystery;Historical,a_0356;a_0453;a_0004;a_0440
+u_00389,15,BR,Historical;Non-Fiction,a_0586
+u_00390,23,SE,Romance;Mystery,a_0321
+u_00391,66,MX,History;Historical;Horror,a_0544;a_0403;a_0382
+u_00392,68,NL,Non-Fiction;Poetry,a_0584
+u_00393,43,NL,Biography;Historical;Science Fiction,
+u_00394,27,IN,Philosophy;Classics,a_0500;a_0470;a_0320
+u_00395,49,PL,Philosophy;Business,a_0337;a_0283;a_0045
+u_00396,71,BR,Biography;Science Fiction;Classics,a_0304;a_0211;a_0366;a_0118;a_0016
+u_00397,28,AU,Horror;Graphic Novels;Romance,
+u_00398,69,FR,Romance;Mystery;Biography,
+u_00399,14,DE,Classics,a_0626
+u_00400,32,DE,Poetry;Thriller;Self-Help,a_0688;a_0666;a_0482
+u_00401,61,NL,Fantasy;Historical;Science Fiction,a_0446;a_0625;a_0343;a_0558
+u_00402,37,NO,Poetry;Biography,
+u_00403,30,PL,Philosophy;Fantasy;Self-Help,a_0253
+u_00404,57,SE,Non-Fiction;Historical;Philosophy,
+u_00405,73,BR,Young Adult;Mystery,a_0151;a_0609;a_0240;a_0253
+u_00406,36,NL,Classics;History,
+u_00407,40,CA,Business;Historical,a_0043;a_0361;a_0177;a_0297;a_0378
+u_00408,70,SE,Classics,a_0558;a_0591;a_0530;a_0655;a_0057
+u_00409,66,ES,Classics,a_0582
+u_00410,14,IN,Science Fiction,a_0373;a_0545;a_0290
+u_00411,59,SE,Thriller,a_0121
+u_00412,16,AU,Fantasy,
+u_00413,52,UK,Children,
+u_00414,62,FR,Biography;Poetry,a_0058;a_0279;a_0236;a_0241
+u_00415,37,IN,Romance,
+u_00416,42,BR,Philosophy,a_0375;a_0671;a_0260
+u_00417,47,AU,Young Adult,
+u_00418,66,PL,Fantasy;Thriller;Young Adult,a_0673;a_0351;a_0177;a_0123;a_0081
+u_00419,49,NO,Business,a_0333;a_0219;a_0693
+u_00420,28,FR,Mystery,a_0055
+u_00421,44,IT,Philosophy;Fantasy;Romance,a_0528;a_0280
+u_00422,51,UK,Thriller;Science Fiction;Mystery,a_0285;a_0389;a_0090;a_0594;a_0641
+u_00423,30,CA,Non-Fiction,a_0575;a_0040;a_0079;a_0334
+u_00424,57,SE,Fantasy;History;Thriller,a_0624;a_0472;a_0236;a_0009
+u_00425,72,ES,Science Fiction,a_0026;a_0482;a_0236;a_0165
+u_00426,23,PL,Non-Fiction,a_0616;a_0275;a_0026;a_0442
+u_00427,45,ES,Non-Fiction,a_0209;a_0585
+u_00428,43,UK,Thriller;Business;Poetry,a_0672;a_0317;a_0463;a_0372
+u_00429,16,UK,Science Fiction,a_0343
+u_00430,30,US,Philosophy;Biography,a_0209;a_0376;a_0042
+u_00431,35,ES,Historical;Philosophy,a_0453;a_0045
+u_00432,50,MX,Poetry,
+u_00433,43,CA,Poetry;Fantasy;Children,a_0475
+u_00434,39,IT,Business;Classics;Biography,a_0525;a_0319;a_0014;a_0541
+u_00435,51,AU,Science Fiction;Horror,a_0440;a_0273
+u_00436,35,IT,Self-Help;History;Fantasy,a_0541;a_0249;a_0393;a_0255
+u_00437,24,UK,Graphic Novels;Historical,a_0029;a_0542;a_0693;a_0500;a_0359
+u_00438,24,FR,Graphic Novels;Fantasy;Young Adult,a_0113;a_0509
+u_00439,51,NL,Graphic Novels,a_0436;a_0349;a_0666;a_0497
+u_00440,21,IN,Fantasy,
+u_00441,41,ES,Science Fiction;Philosophy,a_0644;a_0362;a_0050
+u_00442,48,BR,Mystery;Science Fiction;Self-Help,a_0613;a_0364
+u_00443,49,IN,Romance;Horror;Historical,
+u_00444,30,IN,Classics;Mystery,a_0624;a_0212
+u_00445,62,NO,Graphic Novels;Children,a_0109;a_0032;a_0551;a_0041
+u_00446,27,ES,Historical,a_0664;a_0499;a_0317;a_0187;a_0114
+u_00447,59,PL,Romance;Self-Help;Graphic Novels,a_0568;a_0585
+u_00448,42,DE,Business,a_0527
+u_00449,45,BR,Thriller;Romance,a_0468
+u_00450,74,IT,Graphic Novels,a_0096
+u_00451,64,NL,Horror,
+u_00452,19,ES,Young Adult,a_0156
+u_00453,65,IT,Science Fiction,
+u_00454,67,SE,Self-Help;Graphic Novels,a_0370;a_0390;a_0530;a_0317
+u_00455,72,MX,Science Fiction;Mystery,a_0210;a_0109;a_0427;a_0433;a_0335
+u_00456,17,IT,Philosophy;Romance,
+u_00457,40,SE,Children;Non-Fiction;Graphic Novels,
+u_00458,14,ES,Philosophy;Horror;Non-Fiction,a_0518
+u_00459,23,PL,History,a_0591;a_0021
+u_00460,67,CA,Poetry,a_0051;a_0630;a_0375;a_0318
+u_00461,59,CA,Fantasy;History,a_0418;a_0501
+u_00462,50,IN,Young Adult,a_0157;a_0363;a_0140
+u_00463,44,CA,Business;History,a_0257;a_0436
+u_00464,43,IT,Poetry,a_0628
+u_00465,52,SE,Thriller;Classics,a_0460;a_0550;a_0064;a_0017;a_0491
+u_00466,58,IT,Fantasy;Graphic Novels,a_0560;a_0169;a_0549;a_0322
+u_00467,26,CA,Poetry,a_0233;a_0421;a_0204;a_0658
+u_00468,67,SE,Classics;Mystery,
+u_00469,51,IN,Philosophy,a_0049;a_0466;a_0042;a_0440;a_0212
+u_00470,27,PL,Science Fiction;Non-Fiction;Classics,a_0012;a_0002;a_0269;a_0296;a_0261
+u_00471,24,IN,Graphic Novels;Classics,
+u_00472,60,UK,Children;Classics;Fantasy,a_0329
+u_00473,39,SE,Mystery,a_0076
+u_00474,44,AU,Fantasy,a_0235;a_0176;a_0264
+u_00475,22,IT,Biography,a_0536;a_0058;a_0138
+u_00476,28,IT,Biography,a_0459;a_0435;a_0078
+u_00477,70,US,Historical;Self-Help,a_0672
+u_00478,46,SE,History,a_0594
+u_00479,30,CA,Graphic Novels;Science Fiction,a_0392;a_0699;a_0246
+u_00480,50,IN,Mystery,a_0291
+u_00481,27,FR,Poetry,a_0533;a_0296;a_0657;a_0650
+u_00482,67,MX,Classics;Biography;Business,a_0186;a_0522;a_0614
+u_00483,16,UK,Thriller;Science Fiction;Romance,a_0267
+u_00484,45,BR,Biography;History,a_0009
+u_00485,62,PL,Classics,a_0588
+u_00486,24,ES,Biography,a_0501;a_0453
+u_00487,55,UK,Science Fiction,a_0688
+u_00488,60,UK,Romance;Biography;Poetry,
+u_00489,66,FR,Fantasy;Non-Fiction;Philosophy,a_0015;a_0348;a_0421;a_0280;a_0105
+u_00490,64,BR,Mystery,a_0513
+u_00491,14,DE,Young Adult;Business;Horror,a_0266;a_0455
+u_00492,15,US,Classics;Children;Non-Fiction,a_0263;a_0681;a_0504
+u_00493,55,IN,Non-Fiction;Fantasy;Classics,
+u_00494,54,CA,Poetry,a_0210;a_0424;a_0426
+u_00495,60,UK,Mystery,a_0040;a_0677;a_0021;a_0367
+u_00496,56,FR,Historical;Thriller;Mystery,a_0651;a_0390;a_0010
+u_00497,61,DE,Biography;Horror,a_0410
+u_00498,72,FR,Historical,a_0412;a_0646;a_0676
+u_00499,41,DE,Business;Young Adult;History,a_0395;a_0408;a_0403;a_0404
+u_00500,53,DE,Self-Help;Non-Fiction,a_0140;a_0175;a_0402
+u_00501,20,IT,History,a_0496;a_0145;a_0115;a_0583
+u_00502,56,US,Classics,a_0244;a_0372
+u_00503,26,NO,Romance;Philosophy;Classics,a_0651
+u_00504,68,CA,History;Horror;Romance,
+u_00505,72,CA,Historical,a_0364
+u_00506,54,NO,Non-Fiction;Fantasy;Thriller,
+u_00507,74,BR,Graphic Novels,
+u_00508,68,ES,Romance,a_0093
+u_00509,62,US,History,a_0555;a_0483;a_0663;a_0576;a_0281
+u_00510,20,MX,Philosophy,a_0240;a_0332;a_0589;a_0618;a_0409
+u_00511,54,MX,Mystery;Historical,a_0225;a_0023
+u_00512,72,DE,Science Fiction;Thriller;Biography,a_0647;a_0464
+u_00513,66,MX,Non-Fiction;History;Science Fiction,
+u_00514,62,DE,Self-Help;Young Adult,a_0552;a_0187;a_0396;a_0406
+u_00515,21,AU,Romance;Horror,a_0347;a_0644
+u_00516,25,CA,Thriller,a_0621;a_0052;a_0390;a_0246;a_0042
+u_00517,57,PL,Thriller;Young Adult,a_0493;a_0684
+u_00518,15,SE,Thriller;Biography,a_0417
+u_00519,43,IT,Philosophy;Young Adult,a_0067;a_0100;a_0047;a_0186;a_0247
+u_00520,48,US,Thriller;Fantasy,a_0282;a_0453;a_0568;a_0382
+u_00521,49,UK,Romance,a_0248;a_0046;a_0016;a_0416
+u_00522,34,IN,Historical;Poetry,a_0200;a_0055;a_0266;a_0558
+u_00523,27,FR,Non-Fiction;Thriller;Fantasy,a_0168;a_0020;a_0075
+u_00524,29,UK,Self-Help;Classics;History,a_0444;a_0235;a_0318
+u_00525,41,PL,Mystery;Thriller;Children,a_0564;a_0260
+u_00526,16,US,Thriller,a_0297
+u_00527,69,ES,Non-Fiction,
+u_00528,57,IT,History;Fantasy,a_0548;a_0198
+u_00529,50,BR,Business;Classics;Fantasy,a_0250;a_0621;a_0528;a_0360
+u_00530,61,DE,Graphic Novels,
+u_00531,49,BR,Horror;Historical,
+u_00532,63,IT,Historical;History,a_0008;a_0217
+u_00533,38,MX,Biography;History;Young Adult,a_0019;a_0409;a_0690;a_0346
+u_00534,52,FR,Children;Philosophy,a_0492;a_0053;a_0523;a_0505
+u_00535,49,NO,History;Poetry,a_0695
+u_00536,60,ES,Children,a_0606;a_0263
+u_00537,65,IT,Classics;Philosophy,a_0695
+u_00538,53,PL,Mystery;Romance,
+u_00539,68,SE,Children;Self-Help,a_0036;a_0427
+u_00540,35,PL,Poetry,a_0002;a_0364;a_0106
+u_00541,32,BR,Classics;Biography,a_0356;a_0274;a_0098
+u_00542,68,CA,History;Romance,a_0446;a_0138;a_0045
+u_00543,19,NO,Poetry;Business;Self-Help,a_0583;a_0164;a_0264;a_0696
+u_00544,74,CA,Philosophy,a_0519
+u_00545,46,IN,Biography;Romance,a_0407;a_0306;a_0644;a_0467;a_0192
+u_00546,20,NL,Classics;Non-Fiction,a_0293
+u_00547,71,IT,Children;Thriller,a_0490;a_0025;a_0589;a_0629
+u_00548,64,NO,Young Adult,a_0446
+u_00549,72,IT,Philosophy;Fantasy;Non-Fiction,a_0522;a_0371;a_0214;a_0599
+u_00550,49,NL,Graphic Novels;Classics;Fantasy,
+u_00551,48,IT,Thriller;Science Fiction,a_0477;a_0523
+u_00552,24,CA,Fantasy;Classics,
+u_00553,43,PL,Mystery;Philosophy,a_0654;a_0534;a_0218
+u_00554,48,SE,Self-Help;Children,a_0367;a_0167;a_0137;a_0346
+u_00555,47,FR,Philosophy;Poetry,a_0396;a_0162
+u_00556,52,UK,Romance;History,a_0423;a_0314;a_0241
+u_00557,16,NO,Young Adult;Science Fiction;History,
+u_00558,30,BR,Non-Fiction,a_0491;a_0427;a_0417;a_0179;a_0227
+u_00559,61,NL,Classics;Self-Help;Historical,
+u_00560,51,BR,Philosophy;Non-Fiction;Poetry,a_0580;a_0677
+u_00561,51,ES,Historical;Young Adult;Mystery,a_0215;a_0310;a_0394;a_0351
+u_00562,46,ES,Philosophy;Thriller;Biography,a_0210;a_0584;a_0095;a_0428;a_0318
+u_00563,38,AU,Mystery;Historical;Graphic Novels,a_0152
+u_00564,53,MX,Philosophy,a_0180;a_0616;a_0160;a_0674;a_0562
+u_00565,51,ES,Children,a_0361;a_0097;a_0244
+u_00566,38,FR,Non-Fiction,a_0449;a_0419
+u_00567,22,IN,Young Adult;Fantasy,a_0528;a_0462
+u_00568,44,US,Biography;History,a_0021
+u_00569,17,NL,Self-Help;Graphic Novels;Science Fiction,a_0250;a_0275
+u_00570,55,MX,Thriller;Non-Fiction,a_0135;a_0043;a_0679;a_0048;a_0401
+u_00571,34,IT,Biography,a_0083;a_0428;a_0058;a_0319;a_0031
+u_00572,18,SE,Fantasy,a_0191;a_0642;a_0323
+u_00573,20,DE,Romance;Philosophy;History,a_0028;a_0522;a_0444;a_0391
+u_00574,14,NL,Children;Horror;Philosophy,a_0148;a_0585;a_0564;a_0049;a_0531
+u_00575,52,UK,Self-Help,a_0678;a_0364
+u_00576,50,PL,Young Adult;Philosophy;Self-Help,a_0439;a_0155;a_0240;a_0304
+u_00577,45,CA,Children,
+u_00578,61,SE,Romance,a_0517;a_0134;a_0420;a_0363;a_0474
+u_00579,68,US,Classics;Poetry;Non-Fiction,a_0331;a_0219
+u_00580,34,BR,Biography;Graphic Novels,a_0205;a_0177;a_0148;a_0374
+u_00581,54,NL,Graphic Novels;Fantasy;Non-Fiction,a_0107;a_0193;a_0081;a_0572
+u_00582,55,NO,Philosophy,a_0265;a_0138;a_0575;a_0577
+u_00583,19,NO,Thriller;Philosophy,a_0580
+u_00584,16,SE,Horror,a_0054
+u_00585,23,DE,Romance;Thriller,a_0616;a_0561;a_0175;a_0618;a_0013
+u_00586,67,IN,Science Fiction;Mystery,a_0576;a_0178;a_0683;a_0614
+u_00587,73,NL,Romance;Classics;Non-Fiction,a_0427;a_0486
+u_00588,28,UK,Romance;Historical,a_0080;a_0239;a_0289
+u_00589,73,NL,Business,a_0211;a_0090;a_0396
+u_00590,65,IN,Graphic Novels,a_0544;a_0616;a_0160
+u_00591,31,UK,Historical;Romance;Fantasy,a_0609;a_0108;a_0618;a_0666
+u_00592,69,AU,Philosophy;Biography,a_0391;a_0557
+u_00593,20,BR,Biography;Thriller,a_0121;a_0086;a_0240;a_0697;a_0457
+u_00594,63,IN,Classics;Historical,a_0267;a_0071;a_0046;a_0477;a_0012
+u_00595,70,BR,Historical;Classics;Mystery,a_0629;a_0239;a_0120
+u_00596,54,NO,Biography;Business;Historical,
+u_00597,60,US,History,a_0392;a_0335;a_0054;a_0542;a_0136
+u_00598,72,BR,History;Science Fiction,a_0153;a_0165;a_0526
+u_00599,31,IN,Romance;Mystery;Horror,a_0473;a_0279;a_0027
+u_00600,47,AU,Horror;Fantasy;Graphic Novels,a_0560;a_0391;a_0501;a_0587
+u_00601,17,NO,Mystery;Historical,a_0603;a_0060
+u_00602,57,IT,Philosophy;Fantasy,a_0455;a_0353;a_0207
+u_00603,33,IN,Children;Poetry,a_0177;a_0468;a_0140;a_0011;a_0395
+u_00604,30,MX,Poetry;Science Fiction,a_0445
+u_00605,25,US,Horror;Self-Help,a_0023;a_0404;a_0162
+u_00606,58,UK,Biography;Mystery;History,a_0217;a_0406;a_0382
+u_00607,38,NL,Philosophy,
+u_00608,35,MX,Philosophy;Non-Fiction;Self-Help,a_0348;a_0682
+u_00609,36,IN,Non-Fiction;Classics,a_0300;a_0278;a_0388
+u_00610,17,CA,Poetry,
+u_00611,51,US,Thriller;Young Adult,a_0575;a_0666;a_0306;a_0482
+u_00612,29,DE,Philosophy;Thriller,a_0203;a_0550
+u_00613,21,NO,Biography,a_0222;a_0278
+u_00614,53,AU,Graphic Novels,a_0097
+u_00615,24,AU,Science Fiction;History,a_0637
+u_00616,32,PL,Philosophy;Graphic Novels;Young Adult,a_0273;a_0572
+u_00617,20,SE,Mystery;Horror;Thriller,a_0019;a_0396
+u_00618,19,PL,Historical,a_0169;a_0319
+u_00619,19,MX,Non-Fiction;Young Adult;Poetry,a_0068;a_0693;a_0376;a_0285;a_0365
+u_00620,62,BR,Science Fiction;Philosophy,
+u_00621,29,IT,Romance;Horror,a_0487
+u_00622,31,UK,Philosophy,a_0162
+u_00623,57,NO,Business;Mystery;Fantasy,a_0471;a_0409
+u_00624,30,IN,Biography;Business;Mystery,a_0044;a_0554;a_0244
+u_00625,49,BR,Classics;Young Adult;Business,a_0641;a_0684;a_0352;a_0033;a_0035
+u_00626,34,FR,Graphic Novels;Poetry,
+u_00627,66,ES,Self-Help;Poetry,a_0059;a_0423
+u_00628,48,BR,Philosophy,
+u_00629,22,US,Graphic Novels;Philosophy,a_0449;a_0082;a_0409;a_0628;a_0629
+u_00630,29,IT,History,a_0603;a_0080
+u_00631,23,PL,Horror;Philosophy;Non-Fiction,
+u_00632,20,MX,Philosophy;Romance,a_0525;a_0087;a_0593
+u_00633,67,US,Science Fiction,a_0530;a_0287;a_0088;a_0290
+u_00634,18,FR,Philosophy;Horror;History,a_0153
+u_00635,47,ES,Horror;Business,
+u_00636,34,CA,Thriller,a_0456
+u_00637,20,ES,Fantasy,a_0373;a_0687;a_0210;a_0207;a_0318
+u_00638,53,US,Fantasy;Poetry;Classics,
+u_00639,18,PL,Children,a_0044;a_0140;a_0458;a_0230
+u_00640,19,IN,Business,a_0613
+u_00641,19,FR,Science Fiction;Non-Fiction,a_0554;a_0358;a_0440;a_0461
+u_00642,72,ES,Romance;Mystery,a_0618;a_0624;a_0563;a_0436
+u_00643,43,DE,Romance;Philosophy;Graphic Novels,a_0350
+u_00644,39,UK,Business;Historical,a_0664;a_0346;a_0102
+u_00645,55,UK,Classics,
+u_00646,35,UK,History;Historical;Children,a_0051;a_0306;a_0191;a_0277
+u_00647,24,IN,Young Adult,a_0503
+u_00648,63,CA,Romance;Self-Help,a_0562;a_0668;a_0515;a_0640;a_0237
+u_00649,31,DE,Classics;Graphic Novels;Mystery,
+u_00650,64,CA,Children;Graphic Novels;Self-Help,a_0465
+u_00651,26,CA,Mystery,a_0023;a_0673
+u_00652,19,DE,Young Adult,a_0033;a_0055;a_0638;a_0561
+u_00653,25,NO,History,a_0660;a_0369;a_0343;a_0333;a_0390
+u_00654,48,UK,Self-Help;Horror;Poetry,a_0247;a_0643;a_0614
+u_00655,14,CA,Science Fiction,a_0037;a_0221
+u_00656,65,DE,Philosophy;History;Young Adult,a_0427;a_0067;a_0328;a_0464;a_0321
+u_00657,14,ES,Romance;History;Fantasy,a_0169;a_0494
+u_00658,55,NL,Self-Help;Young Adult;History,a_0264;a_0432
+u_00659,71,CA,Mystery;Biography;Thriller,a_0496;a_0284
+u_00660,56,US,Business;Thriller,a_0224;a_0342;a_0574;a_0361
+u_00661,27,BR,Mystery;Self-Help;Non-Fiction,a_0585;a_0059
+u_00662,70,FR,Children;Poetry,a_0175;a_0515
+u_00663,14,CA,Business;Non-Fiction,a_0057;a_0198;a_0274
+u_00664,70,US,Horror,a_0349;a_0002;a_0325;a_0305;a_0159
+u_00665,64,SE,Fantasy,a_0080;a_0308
+u_00666,42,US,Young Adult;Mystery,a_0099;a_0201;a_0302;a_0278
+u_00667,48,DE,Poetry,
+u_00668,34,ES,Business;Mystery;Philosophy,a_0052;a_0071;a_0428;a_0084
+u_00669,29,UK,Romance;Young Adult,a_0419;a_0563
+u_00670,15,FR,Children;Fantasy,a_0462;a_0234;a_0501
+u_00671,60,CA,Mystery;Children,a_0311;a_0670;a_0250;a_0662
+u_00672,30,ES,Historical;Horror,a_0098
+u_00673,62,MX,Children;Mystery;Young Adult,a_0505;a_0230
+u_00674,37,FR,Poetry;Romance;Mystery,
+u_00675,46,DE,Thriller,a_0231;a_0054
+u_00676,48,ES,Business;Poetry,a_0469;a_0463;a_0554
+u_00677,72,PL,Biography;Thriller,a_0620
+u_00678,20,MX,Historical;History;Philosophy,a_0378;a_0187;a_0551
+u_00679,54,UK,History;Mystery,a_0027
+u_00680,60,US,Poetry;Science Fiction,a_0383;a_0310;a_0682;a_0332;a_0424
+u_00681,52,AU,History;Biography,a_0051
+u_00682,28,AU,Classics;Science Fiction;Young Adult,a_0314;a_0111;a_0400
+u_00683,48,NO,Science Fiction,a_0626;a_0593;a_0396;a_0366
+u_00684,38,BR,Thriller;Science Fiction,a_0332;a_0311;a_0605;a_0409
+u_00685,37,BR,Non-Fiction;Business;Romance,a_0547
+u_00686,72,AU,Thriller,a_0385;a_0000;a_0505
+u_00687,58,IT,Classics;Non-Fiction;Thriller,a_0598;a_0349
+u_00688,52,IN,Business,a_0188;a_0558
+u_00689,73,NO,Children,a_0273
+u_00690,56,IN,Fantasy;Children;Biography,a_0622;a_0286;a_0031
+u_00691,38,ES,Mystery;Philosophy,a_0251;a_0592;a_0488;a_0556
+u_00692,29,UK,Science Fiction;History;Mystery,a_0113;a_0685
+u_00693,27,DE,Romance;Self-Help,a_0514;a_0650
+u_00694,41,US,Classics;History;Science Fiction,a_0410;a_0616;a_0168;a_0500
+u_00695,71,FR,History,
+u_00696,41,IT,Self-Help;Mystery,a_0044;a_0632;a_0046;a_0669;a_0020
+u_00697,34,IN,Thriller;Science Fiction;Self-Help,a_0535;a_0294;a_0028;a_0188;a_0314
+u_00698,49,ES,Horror;Fantasy;Business,a_0217;a_0145;a_0413;a_0471;a_0542
+u_00699,47,UK,Romance;Poetry,a_0112;a_0170;a_0111
+u_00700,39,IT,Business;Romance,a_0428
+u_00701,66,US,Young Adult;Non-Fiction;Thriller,a_0666;a_0576
+u_00702,71,ES,Historical;Children,a_0501;a_0466;a_0138
+u_00703,45,NL,Young Adult;Romance;Business,a_0147;a_0380;a_0570
+u_00704,18,AU,Business;Poetry;Fantasy,a_0104;a_0027;a_0692
+u_00705,18,MX,Classics,a_0256;a_0493
+u_00706,50,MX,History,a_0661;a_0139;a_0260;a_0127;a_0212
+u_00707,71,US,Young Adult;Fantasy;Business,a_0097;a_0104
+u_00708,28,DE,History;Children;Science Fiction,a_0619;a_0038;a_0115;a_0100;a_0076
+u_00709,23,IN,Thriller;Philosophy,a_0109;a_0427
+u_00710,36,BR,Business;Romance,a_0234;a_0555
+u_00711,51,NL,Fantasy;Poetry,a_0100
+u_00712,17,UK,Thriller;Classics,a_0682;a_0617;a_0294;a_0548
+u_00713,73,AU,Horror,a_0160;a_0230
+u_00714,20,NO,Graphic Novels,
+u_00715,58,IN,Historical,a_0267;a_0496
+u_00716,36,NL,Fantasy,a_0023;a_0152;a_0411;a_0639
+u_00717,32,NO,Graphic Novels,a_0657;a_0429;a_0131;a_0635;a_0160
+u_00718,14,CA,Philosophy;History,a_0234
+u_00719,70,DE,Poetry;Children;Science Fiction,a_0677;a_0254;a_0648;a_0090
+u_00720,25,BR,Romance,a_0108;a_0024
+u_00721,67,ES,Horror,
+u_00722,70,IT,Thriller;Historical;Mystery,a_0506;a_0246;a_0005;a_0582
+u_00723,29,UK,Romance;Horror;Biography,a_0564;a_0540;a_0399
+u_00724,19,PL,Science Fiction;Mystery;Young Adult,a_0129
+u_00725,65,NL,Graphic Novels;History,a_0251;a_0163;a_0642
+u_00726,23,IN,Historical;Thriller;Non-Fiction,a_0376
+u_00727,53,AU,Romance;Fantasy,a_0270;a_0371;a_0491
+u_00728,64,NO,Fantasy,
+u_00729,49,CA,Self-Help,a_0345
+u_00730,27,FR,Horror;Self-Help,a_0319;a_0227;a_0691
+u_00731,59,IN,Romance,a_0635;a_0219
+u_00732,27,CA,Non-Fiction;Mystery,a_0580;a_0218;a_0201;a_0540;a_0615
+u_00733,28,NO,Thriller;Classics;Children,a_0000
+u_00734,59,AU,Poetry,
+u_00735,68,IN,Horror;Historical;History,a_0118;a_0523;a_0650;a_0339;a_0387
+u_00736,62,ES,Children,a_0532;a_0106;a_0576;a_0036
+u_00737,47,MX,Young Adult;Romance,a_0259;a_0258;a_0304;a_0256;a_0377
+u_00738,67,IN,Business;Horror,
+u_00739,44,IT,Science Fiction;Fantasy,
+u_00740,40,US,Self-Help,a_0058;a_0672;a_0055
+u_00741,60,US,Fantasy,a_0077;a_0400
+u_00742,26,PL,Philosophy,a_0011;a_0318;a_0019;a_0268;a_0466
+u_00743,47,IT,Self-Help;Poetry;Horror,a_0393;a_0344;a_0099;a_0582
+u_00744,30,PL,Historical,a_0665;a_0057
+u_00745,17,BR,Graphic Novels;Biography;Philosophy,a_0191
+u_00746,51,DE,Non-Fiction;Children;Classics,a_0422;a_0171;a_0496
+u_00747,35,NL,Self-Help;Young Adult;Fantasy,a_0269;a_0472;a_0603
+u_00748,57,CA,Poetry;Self-Help;Young Adult,a_0245;a_0574;a_0189;a_0223;a_0383
+u_00749,69,US,Non-Fiction;Classics;Biography,a_0606;a_0419
+u_00750,29,US,Self-Help;Thriller,a_0566;a_0368
+u_00751,52,MX,History;Self-Help,
+u_00752,44,MX,Self-Help;Children;History,a_0030
+u_00753,56,IT,Non-Fiction;Philosophy;Poetry,
+u_00754,55,DE,Self-Help,
+u_00755,64,BR,Romance;Young Adult,
+u_00756,32,DE,Science Fiction;Philosophy,a_0310;a_0242;a_0580;a_0288;a_0230
+u_00757,23,PL,Classics;Poetry;Fantasy,a_0154
+u_00758,31,NL,Biography,a_0041;a_0541;a_0389;a_0125;a_0051
+u_00759,21,ES,Thriller;Fantasy;Self-Help,a_0554;a_0332;a_0468
+u_00760,68,FR,Self-Help;Young Adult;History,a_0620;a_0198;a_0104;a_0134
+u_00761,16,PL,Poetry,a_0333
+u_00762,18,NL,Young Adult,a_0451;a_0602;a_0617;a_0337
+u_00763,14,AU,Mystery,a_0240;a_0456;a_0188
+u_00764,44,BR,Graphic Novels,a_0496;a_0329;a_0248;a_0075;a_0116
+u_00765,33,PL,Graphic Novels;Self-Help,a_0005;a_0142;a_0004
+u_00766,23,IN,Non-Fiction,a_0030;a_0283;a_0102;a_0409
+u_00767,74,DE,Thriller;Fantasy,a_0284;a_0259;a_0369;a_0503;a_0243
+u_00768,73,US,Biography,a_0444
+u_00769,33,CA,Mystery;Children,a_0528;a_0425;a_0238
+u_00770,54,SE,Non-Fiction,a_0475;a_0578;a_0224;a_0355;a_0307
+u_00771,61,IN,Horror,a_0549;a_0108;a_0144
+u_00772,61,BR,Biography,a_0545
+u_00773,45,UK,Horror;Fantasy,
+u_00774,25,DE,Horror;History;Classics,a_0295
+u_00775,63,UK,Horror,a_0131;a_0353;a_0347;a_0371
+u_00776,27,ES,Non-Fiction;History,a_0590;a_0337
+u_00777,74,SE,Classics;History,a_0224;a_0235;a_0378;a_0615
+u_00778,28,UK,Romance;Self-Help;Non-Fiction,
+u_00779,30,PL,Thriller;Mystery;Graphic Novels,a_0696;a_0631;a_0575;a_0616;a_0396
+u_00780,35,CA,Young Adult;Children,a_0182;a_0155;a_0600;a_0651
+u_00781,49,SE,Self-Help;Science Fiction,a_0527
+u_00782,50,IN,Self-Help;Classics;Business,a_0235;a_0254
+u_00783,63,DE,Young Adult;Biography,a_0140;a_0349;a_0287;a_0277
+u_00784,66,MX,Graphic Novels,a_0293
+u_00785,21,ES,Romance;History,a_0106;a_0094;a_0173;a_0478;a_0048
+u_00786,53,AU,Business;History;Poetry,a_0060;a_0439;a_0192;a_0627;a_0057
+u_00787,51,BR,Young Adult;Historical;Romance,a_0288;a_0448;a_0345
+u_00788,31,IN,History,a_0410;a_0366;a_0524
+u_00789,34,NO,Science Fiction;Biography,a_0172;a_0163
+u_00790,68,FR,Business,a_0563;a_0318;a_0629;a_0147;a_0126
+u_00791,24,MX,Biography;Fantasy;Mystery,a_0569
+u_00792,30,NL,Self-Help;Philosophy;Young Adult,a_0479;a_0097;a_0601;a_0136
+u_00793,65,FR,Philosophy;Young Adult;Horror,a_0268;a_0441;a_0100;a_0356
+u_00794,39,NL,Mystery;Fantasy,a_0275;a_0596;a_0222;a_0569;a_0180
+u_00795,50,DE,Horror,a_0113;a_0025;a_0163
+u_00796,70,NO,Historical;Children,a_0335
+u_00797,66,SE,Philosophy,a_0248;a_0435;a_0488
+u_00798,54,IT,Non-Fiction,a_0608;a_0347;a_0389;a_0144;a_0349
+u_00799,61,DE,Romance;Poetry,a_0127;a_0391;a_0609;a_0668;a_0514
+u_00800,67,AU,Fantasy;Mystery,a_0453;a_0543;a_0637;a_0463
+u_00801,72,NL,Graphic Novels;Biography,a_0452;a_0306;a_0615
+u_00802,18,FR,Young Adult,
+u_00803,42,FR,Mystery,a_0234;a_0133;a_0037;a_0020
+u_00804,54,AU,Graphic Novels,a_0285;a_0613
+u_00805,39,IT,History;Poetry;Philosophy,a_0683;a_0490;a_0456
+u_00806,61,BR,Graphic Novels;Biography,
+u_00807,59,FR,Classics;Self-Help;Business,a_0520;a_0064
+u_00808,31,US,Thriller;Children;Non-Fiction,a_0407;a_0440
+u_00809,55,MX,Self-Help,
+u_00810,15,SE,Classics;Philosophy,a_0667
+u_00811,15,CA,Poetry;Horror,a_0360;a_0573;a_0109;a_0654
+u_00812,20,NL,Biography;Horror;Graphic Novels,
+u_00813,57,MX,Fantasy;Mystery;Science Fiction,a_0195;a_0402;a_0544;a_0490
+u_00814,16,US,Mystery;Children;Biography,
+u_00815,25,BR,Biography;Classics,
+u_00816,68,IT,Children,a_0046;a_0261;a_0567;a_0550;a_0455
+u_00817,17,US,Horror;Classics;Philosophy,
+u_00818,52,MX,Mystery;Poetry;Science Fiction,a_0364;a_0043
+u_00819,34,US,Children;Business,a_0061;a_0073;a_0638;a_0581
+u_00820,35,NL,Self-Help,a_0697;a_0539;a_0021;a_0156
+u_00821,28,CA,Horror,
+u_00822,41,ES,Self-Help;History;Classics,a_0568
+u_00823,19,IN,Children;Classics,a_0321;a_0520
+u_00824,61,MX,Mystery,a_0444;a_0599
+u_00825,19,SE,Poetry,a_0680;a_0314;a_0122;a_0233
+u_00826,48,SE,Graphic Novels;Non-Fiction,a_0638;a_0266;a_0163;a_0678
+u_00827,15,IT,Mystery;Thriller;Science Fiction,
+u_00828,43,NO,Historical;Thriller,a_0330
+u_00829,22,ES,Romance,a_0051;a_0358;a_0379;a_0245;a_0122
+u_00830,44,IN,Horror,a_0591;a_0170;a_0120;a_0603;a_0475
+u_00831,71,UK,Graphic Novels,a_0303;a_0099
+u_00832,46,NO,Non-Fiction;Biography,a_0389;a_0661;a_0273;a_0011
+u_00833,39,MX,Classics;Historical,a_0269;a_0243;a_0150
+u_00834,70,NL,Philosophy;Poetry;Biography,a_0638;a_0177
+u_00835,27,NL,Romance;Self-Help;Business,a_0027;a_0585;a_0386
+u_00836,54,UK,Historical,a_0352;a_0247;a_0234;a_0514;a_0406
+u_00837,55,IN,Non-Fiction;Classics,
+u_00838,66,US,Classics,a_0232;a_0164
+u_00839,31,MX,Poetry,a_0072;a_0671;a_0520
+u_00840,20,PL,Biography,
+u_00841,51,PL,Fantasy;Classics,a_0306
+u_00842,49,NL,Non-Fiction,a_0379;a_0367;a_0448
+u_00843,72,IT,Philosophy;Historical,a_0048;a_0699;a_0421
+u_00844,41,NL,Young Adult;Thriller,a_0621;a_0538;a_0570;a_0473
+u_00845,21,UK,Romance;Poetry;Graphic Novels,
+u_00846,58,FR,Fantasy;Romance;Thriller,a_0057;a_0467;a_0151;a_0670;a_0148
+u_00847,43,PL,Romance;Biography;Mystery,a_0075;a_0112;a_0218
+u_00848,59,ES,Non-Fiction,a_0277;a_0187;a_0090
+u_00849,22,PL,History;Philosophy;Fantasy,a_0294;a_0519
+u_00850,22,BR,Historical,a_0519;a_0244;a_0176
+u_00851,74,FR,Thriller;Romance;Fantasy,
+u_00852,19,ES,Philosophy,
+u_00853,48,CA,Classics;Poetry,a_0589;a_0223;a_0285
+u_00854,14,PL,Mystery;Classics,a_0640;a_0057;a_0257
+u_00855,38,NO,Classics;History;Philosophy,a_0135;a_0078;a_0231;a_0368;a_0219
+u_00856,52,NO,Thriller,
+u_00857,42,SE,Mystery,a_0226;a_0389;a_0340;a_0368
+u_00858,18,US,Horror;Self-Help;Children,a_0000;a_0168;a_0351;a_0144
+u_00859,28,UK,Mystery;Philosophy;Romance,a_0469;a_0139;a_0223
+u_00860,66,IT,Horror;Thriller;Self-Help,a_0422;a_0130;a_0310;a_0050
+u_00861,28,FR,Romance;Self-Help;Mystery,
+u_00862,15,MX,Philosophy,a_0529;a_0178;a_0039
+u_00863,48,AU,Classics,a_0493
+u_00864,45,IT,Horror,
+u_00865,57,US,Romance;Horror,a_0175
+u_00866,34,AU,Biography,
+u_00867,45,SE,Fantasy,a_0613;a_0208
+u_00868,38,US,Graphic Novels,a_0175;a_0105;a_0130;a_0119
+u_00869,37,NO,Thriller,a_0460;a_0390;a_0524
+u_00870,64,DE,Horror;Science Fiction;Children,a_0410;a_0083
+u_00871,47,NL,Children;Business,a_0376;a_0058;a_0328;a_0610
+u_00872,37,MX,Classics;History,a_0689;a_0103
+u_00873,20,SE,Children;Business;Young Adult,a_0412;a_0162;a_0590;a_0586
+u_00874,68,FR,Romance;Historical;Graphic Novels,a_0691;a_0384;a_0688;a_0524
+u_00875,62,AU,Biography;Business;Science Fiction,
+u_00876,71,UK,Philosophy,a_0415;a_0230;a_0257;a_0684
+u_00877,22,PL,Biography,a_0271;a_0210;a_0161;a_0155
+u_00878,15,BR,Biography,a_0559
+u_00879,24,NL,Horror,a_0468;a_0110;a_0476
+u_00880,37,DE,Classics;Mystery,a_0614
+u_00881,22,NO,History;Non-Fiction,
+u_00882,66,SE,Children;Young Adult,a_0020;a_0292;a_0091
+u_00883,41,AU,Children;Thriller,a_0251;a_0276;a_0082;a_0431;a_0351
+u_00884,22,AU,Young Adult,a_0696
+u_00885,55,IT,Philosophy;Classics,a_0215;a_0527;a_0298
+u_00886,68,FR,Horror,a_0461;a_0590;a_0684;a_0114
+u_00887,43,US,Poetry,
+u_00888,57,DE,Business,a_0362
+u_00889,27,IT,Fantasy,a_0672;a_0094;a_0058;a_0358;a_0039
+u_00890,71,MX,Horror;History,a_0221;a_0226;a_0022;a_0204;a_0567
+u_00891,35,SE,Graphic Novels,a_0213;a_0658
+u_00892,65,SE,Biography;Classics,a_0244;a_0319;a_0322;a_0417
+u_00893,22,BR,Romance,a_0348
+u_00894,72,AU,Classics,a_0533;a_0532;a_0434;a_0517
+u_00895,44,US,Children;Romance;Historical,a_0321;a_0337;a_0189;a_0022;a_0019
+u_00896,73,AU,Graphic Novels;Mystery,a_0450;a_0414;a_0511;a_0163;a_0654
+u_00897,67,PL,Horror,a_0192;a_0308;a_0302;a_0579
+u_00898,53,NL,Science Fiction;Poetry;Mystery,a_0544;a_0641;a_0364
+u_00899,61,ES,Self-Help;Fantasy,a_0329
+u_00900,19,UK,Romance;Fantasy,a_0380
+u_00901,63,PL,Romance;Classics,
+u_00902,63,DE,Classics,
+u_00903,17,BR,Classics,a_0196;a_0420
+u_00904,61,IN,Graphic Novels;Classics;Science Fiction,a_0351
+u_00905,50,IT,History,a_0642
+u_00906,51,CA,Biography;Business,a_0435;a_0586
+u_00907,52,IN,Fantasy;Classics;Business,a_0579;a_0527;a_0030
+u_00908,29,AU,Self-Help;Classics,a_0218;a_0575;a_0042;a_0010
+u_00909,68,NL,Classics;Philosophy;Business,
+u_00910,34,SE,Young Adult;Poetry,a_0362;a_0190;a_0307;a_0610
+u_00911,61,BR,Classics;Fantasy,a_0696;a_0017;a_0513
+u_00912,56,NL,Fantasy;Poetry;Classics,a_0592;a_0587;a_0609
+u_00913,43,NL,Science Fiction,a_0636
+u_00914,50,BR,Non-Fiction;History;Philosophy,a_0593
+u_00915,36,BR,Poetry;Science Fiction;Business,
+u_00916,68,CA,History;Romance;Thriller,a_0393;a_0581;a_0162;a_0349;a_0378
+u_00917,51,UK,Historical;Self-Help,a_0133;a_0304
+u_00918,38,BR,Business;Classics,
+u_00919,48,CA,Historical;Horror,a_0420;a_0048
+u_00920,34,SE,Horror,
+u_00921,49,UK,Romance,a_0483;a_0628;a_0248;a_0259
+u_00922,57,CA,Historical,a_0178;a_0014
+u_00923,57,DE,History;Philosophy;Graphic Novels,a_0023;a_0244
+u_00924,52,MX,Thriller;Horror;Self-Help,a_0116;a_0211;a_0598
+u_00925,26,BR,Graphic Novels;Business;Non-Fiction,
+u_00926,33,PL,Graphic Novels,a_0506;a_0562;a_0352;a_0525
+u_00927,44,AU,Fantasy;Historical;Children,a_0094;a_0699
+u_00928,36,MX,Biography;Mystery,a_0640;a_0338
+u_00929,47,IN,Self-Help;Biography;Business,a_0183;a_0086;a_0664;a_0185;a_0177
+u_00930,35,SE,Thriller,a_0435;a_0071;a_0457;a_0251;a_0427
+u_00931,40,NO,Fantasy,a_0560;a_0033;a_0166;a_0140;a_0585
+u_00932,41,DE,Mystery,a_0643;a_0215;a_0091;a_0382
+u_00933,62,AU,Classics,a_0048;a_0677
+u_00934,58,PL,History;Horror;Science Fiction,a_0085;a_0626;a_0436
+u_00935,42,NL,Non-Fiction;Biography;Children,a_0126;a_0666;a_0139;a_0053;a_0068
+u_00936,39,US,Graphic Novels;Horror,a_0085
+u_00937,19,SE,Young Adult,
+u_00938,30,NL,Philosophy;Self-Help,
+u_00939,48,IN,Non-Fiction;Business;Classics,
+u_00940,39,BR,Fantasy,a_0620;a_0462
+u_00941,16,DE,Graphic Novels,a_0071;a_0259;a_0335
+u_00942,40,NL,Biography;Business,
+u_00943,30,IN,Non-Fiction;Biography,a_0578
+u_00944,30,MX,Thriller;Horror,a_0211;a_0481;a_0344
+u_00945,55,IT,Romance;Historical;Philosophy,
+u_00946,23,US,Romance,a_0312
+u_00947,59,ES,Horror;Classics;History,a_0216
+u_00948,74,NL,Graphic Novels;Children;Poetry,a_0370;a_0073
+u_00949,34,NL,Business;Biography;Thriller,a_0119;a_0615;a_0610;a_0629
+u_00950,29,NL,Philosophy,a_0193
+u_00951,30,US,Young Adult,a_0203
+u_00952,46,PL,Science Fiction;Historical;Children,a_0351;a_0673;a_0068;a_0434;a_0633
+u_00953,56,FR,Young Adult;Children;Thriller,a_0634;a_0425;a_0198;a_0011;a_0350
+u_00954,60,ES,Philosophy;Children,a_0615
+u_00955,65,PL,Philosophy;Fantasy,a_0044;a_0336;a_0122;a_0476
+u_00956,28,ES,Philosophy;Graphic Novels,a_0311;a_0028;a_0445;a_0528
+u_00957,50,DE,Biography,a_0629;a_0552;a_0469
+u_00958,33,UK,Business,a_0671;a_0331;a_0476
+u_00959,73,NL,Philosophy;Non-Fiction,a_0311;a_0137
+u_00960,56,IN,Mystery,a_0105;a_0003;a_0307
+u_00961,46,IT,Romance;Young Adult,
+u_00962,72,IT,Non-Fiction,
+u_00963,50,FR,Science Fiction;Historical,a_0522;a_0439;a_0261;a_0214
+u_00964,33,IN,Historical;Philosophy;Poetry,a_0114;a_0365;a_0188;a_0153
+u_00965,65,NO,History;Young Adult,
+u_00966,64,US,Business;History;Children,a_0543
+u_00967,41,MX,Classics,a_0056;a_0365
+u_00968,31,SE,History,a_0558;a_0300;a_0632;a_0147
+u_00969,41,AU,History;Historical;Young Adult,a_0251
+u_00970,28,US,Self-Help,a_0188;a_0568
+u_00971,28,DE,Self-Help,a_0602
+u_00972,51,MX,Young Adult;Fantasy,a_0120;a_0205;a_0582
+u_00973,31,ES,Historical,a_0049;a_0497;a_0180;a_0294
+u_00974,26,IN,Romance;Graphic Novels,a_0502;a_0205;a_0264;a_0090;a_0248
+u_00975,45,IT,Science Fiction;Romance,a_0612;a_0222;a_0391
+u_00976,28,FR,Philosophy;Business,a_0435
+u_00977,51,US,Science Fiction;Young Adult;Fantasy,a_0454;a_0311;a_0520;a_0205
+u_00978,25,ES,Thriller;Romance,a_0143;a_0572;a_0038
+u_00979,55,AU,Mystery;Business;Classics,a_0192;a_0366;a_0217;a_0555;a_0294
+u_00980,59,FR,Classics;Non-Fiction;Thriller,a_0508;a_0630
+u_00981,25,UK,Young Adult,
+u_00982,32,MX,Graphic Novels;Fantasy;Biography,a_0670;a_0442
+u_00983,55,BR,Biography;Fantasy;Historical,a_0508
+u_00984,26,NO,Young Adult;Mystery,a_0025;a_0003;a_0205;a_0130
+u_00985,46,US,Children,a_0140;a_0077
+u_00986,20,SE,Poetry,a_0136;a_0697;a_0028
+u_00987,37,AU,Self-Help,a_0340;a_0399;a_0353;a_0561
+u_00988,71,SE,Fantasy,a_0341;a_0266;a_0360;a_0109;a_0188
+u_00989,31,ES,Self-Help;Business;Horror,a_0087;a_0596;a_0200
+u_00990,35,UK,Philosophy;Poetry;Children,
+u_00991,57,MX,Thriller,a_0581
+u_00992,36,AU,Non-Fiction;Horror,a_0115;a_0359;a_0075;a_0070
+u_00993,29,AU,Mystery;Historical;Romance,a_0395;a_0082
+u_00994,37,CA,Non-Fiction;Biography;Poetry,a_0125;a_0213
+u_00995,60,FR,Philosophy;Historical;Business,a_0573;a_0345;a_0354
+u_00996,39,DE,Young Adult,a_0652;a_0079;a_0659
+u_00997,28,UK,Biography,a_0459
+u_00998,59,NL,Horror;Self-Help,a_0657;a_0162;a_0091;a_0541
+u_00999,50,NL,History;Thriller,a_0572
+u_01000,43,UK,Business;Fantasy;Horror,
+u_01001,28,US,Thriller;Historical,a_0112;a_0547;a_0464;a_0684
+u_01002,17,IT,Business,a_0383;a_0016;a_0140;a_0570;a_0323
+u_01003,59,ES,Horror;Romance,a_0208;a_0032;a_0225
+u_01004,43,NO,Graphic Novels,a_0164;a_0477;a_0467;a_0192
+u_01005,53,US,Classics,a_0661;a_0134;a_0684
+u_01006,36,BR,Mystery;Romance;Philosophy,
+u_01007,62,NO,Romance,a_0587;a_0553
+u_01008,68,NL,Historical;Non-Fiction;History,a_0342;a_0331;a_0332
+u_01009,36,MX,Business;Classics;Philosophy,a_0155;a_0583;a_0186;a_0104
+u_01010,73,FR,History,a_0118;a_0226;a_0580;a_0105;a_0634
+u_01011,60,PL,Business;Science Fiction;History,
+u_01012,63,DE,Graphic Novels;Horror,a_0589;a_0102
+u_01013,67,AU,Mystery,a_0032;a_0484;a_0426;a_0291;a_0134
+u_01014,29,UK,Poetry;Graphic Novels;Classics,
+u_01015,38,IT,Fantasy;Thriller;Graphic Novels,a_0143;a_0027
+u_01016,27,AU,Fantasy;Mystery,a_0625;a_0400;a_0648
+u_01017,37,FR,Poetry,a_0068;a_0417;a_0247;a_0216;a_0254
+u_01018,41,PL,Historical;Classics;History,
+u_01019,60,US,Graphic Novels,a_0217;a_0300;a_0236;a_0335;a_0374
+u_01020,41,PL,Science Fiction;History;Business,a_0329;a_0677;a_0058;a_0006
+u_01021,60,FR,Horror;Mystery;Classics,a_0097;a_0504;a_0377;a_0353
+u_01022,63,IN,Self-Help;Science Fiction;Historical,a_0439;a_0324
+u_01023,48,NO,Children;Thriller,a_0016
+u_01024,17,AU,Science Fiction,
+u_01025,32,UK,Horror;Science Fiction;Business,
+u_01026,36,NO,Mystery;Poetry,a_0217;a_0499;a_0575
+u_01027,46,BR,Historical;Horror,a_0150;a_0406
+u_01028,35,BR,History;Biography;Mystery,a_0114;a_0556
+u_01029,32,IT,Children,a_0528;a_0137;a_0295;a_0632
+u_01030,41,NO,Horror,a_0475;a_0360
+u_01031,19,UK,Young Adult;Romance,a_0533;a_0645
+u_01032,52,NL,Classics;Graphic Novels;Philosophy,a_0350
+u_01033,35,IT,Business;Horror;Non-Fiction,a_0366;a_0160;a_0519;a_0148;a_0500
+u_01034,60,BR,Business;Poetry,a_0556;a_0547
+u_01035,47,UK,History;Science Fiction,a_0542;a_0085;a_0328;a_0467;a_0584
+u_01036,55,UK,Romance;Historical;Philosophy,a_0533;a_0654
+u_01037,64,US,Thriller;History;Classics,a_0032;a_0494;a_0079;a_0674
+u_01038,45,MX,Romance;Science Fiction;History,a_0036;a_0446
+u_01039,67,US,Graphic Novels;Young Adult,a_0292;a_0188;a_0644
+u_01040,67,ES,Philosophy,a_0089;a_0236
+u_01041,48,FR,Science Fiction;Graphic Novels,
+u_01042,65,MX,Poetry,a_0688;a_0564;a_0060;a_0565
+u_01043,28,PL,Philosophy,a_0474;a_0386;a_0476;a_0603;a_0331
+u_01044,28,SE,Thriller,
+u_01045,56,UK,Fantasy;Thriller,a_0130;a_0461;a_0371;a_0547;a_0201
+u_01046,44,NO,Mystery;Self-Help;Philosophy,a_0597;a_0112
+u_01047,38,CA,Biography;Fantasy,a_0070;a_0544;a_0418;a_0673
+u_01048,36,US,Young Adult,a_0351;a_0692
+u_01049,39,MX,Historical;Poetry;Graphic Novels,a_0277;a_0373
+u_01050,67,NO,Non-Fiction;Romance,a_0006
+u_01051,61,IT,Horror;Philosophy;Mystery,
+u_01052,58,US,Biography,a_0135;a_0403
+u_01053,62,DE,Graphic Novels;Biography,
+u_01054,65,BR,Graphic Novels;Poetry,
+u_01055,48,NL,Non-Fiction;Children;Poetry,a_0022;a_0641
+u_01056,25,ES,Philosophy;Horror;Graphic Novels,a_0568;a_0620;a_0550
+u_01057,43,UK,Business;Non-Fiction,a_0488;a_0604;a_0317;a_0631;a_0118
+u_01058,45,UK,Classics;Biography,a_0539;a_0649;a_0687;a_0552
+u_01059,30,NL,Poetry;Graphic Novels;Thriller,a_0207;a_0695
+u_01060,60,US,Horror,a_0421;a_0279
+u_01061,59,IN,Fantasy,
+u_01062,69,US,Children;Horror;Science Fiction,a_0549;a_0697
+u_01063,26,DE,Historical;History,a_0291;a_0048
+u_01064,32,PL,Fantasy;Poetry,
+u_01065,64,ES,Biography;Graphic Novels;Horror,a_0119;a_0518;a_0311
+u_01066,26,ES,Self-Help;Philosophy,a_0259;a_0123;a_0231;a_0679;a_0496
+u_01067,31,UK,Poetry,a_0686;a_0061;a_0162;a_0070
+u_01068,21,BR,Science Fiction,a_0206;a_0110
+u_01069,16,NO,Horror;Historical,a_0101;a_0566
+u_01070,48,ES,History;Poetry;Self-Help,a_0559;a_0347;a_0572;a_0072;a_0015
+u_01071,64,AU,Business;Mystery;Young Adult,a_0092;a_0363;a_0649;a_0621
+u_01072,74,PL,Thriller;Self-Help;History,a_0229;a_0699;a_0002;a_0236
+u_01073,53,BR,Horror;Thriller,a_0666;a_0007
+u_01074,42,NO,Historical;Thriller;Romance,a_0654;a_0222;a_0358
+u_01075,61,NL,Thriller,a_0595;a_0110;a_0309
+u_01076,15,BR,Classics;Philosophy,a_0040;a_0421;a_0498;a_0276
+u_01077,67,US,Science Fiction;Classics,a_0124;a_0086;a_0568
+u_01078,47,IT,Self-Help,a_0519;a_0129;a_0202;a_0158;a_0421
+u_01079,27,ES,Historical;Science Fiction,a_0588;a_0454;a_0677
+u_01080,42,IT,Fantasy;Classics;Young Adult,a_0600;a_0575
+u_01081,57,NO,Mystery,a_0528
+u_01082,19,ES,Philosophy;Non-Fiction;Romance,a_0362
+u_01083,74,MX,Thriller;Horror,a_0616;a_0467;a_0370
+u_01084,68,BR,Biography;Science Fiction;Self-Help,a_0534
+u_01085,33,BR,Business;Horror,a_0274;a_0055;a_0303;a_0053
+u_01086,25,UK,Mystery;Children,a_0626;a_0464;a_0624
+u_01087,62,FR,Philosophy;Mystery;Romance,a_0582;a_0060;a_0660;a_0289;a_0106
+u_01088,40,NL,Young Adult;Historical,a_0556;a_0452
+u_01089,74,NL,Historical;Classics,a_0651;a_0234
+u_01090,18,NO,Science Fiction;Classics,a_0164;a_0061;a_0075;a_0657
+u_01091,31,US,Thriller;Classics;Science Fiction,a_0540
+u_01092,25,IT,Business;Poetry,a_0320;a_0536;a_0372;a_0463;a_0254
+u_01093,26,IN,Self-Help,a_0551;a_0084;a_0360
+u_01094,35,FR,Mystery,a_0001;a_0066;a_0621;a_0214
+u_01095,73,BR,Fantasy,a_0203;a_0305
+u_01096,33,AU,Non-Fiction;Children,a_0406;a_0305;a_0077
+u_01097,30,UK,Mystery;Poetry;Non-Fiction,a_0496;a_0692;a_0505
+u_01098,59,UK,Horror;Classics;Children,
+u_01099,24,US,Biography;Self-Help,
+u_01100,41,BR,Horror;Graphic Novels,a_0221
+u_01101,38,SE,Self-Help,
+u_01102,18,UK,Mystery,a_0571;a_0658;a_0566
+u_01103,32,BR,Self-Help;Science Fiction,a_0040;a_0639;a_0216;a_0168
+u_01104,18,NO,Children;Graphic Novels;Self-Help,
+u_01105,51,PL,Mystery;Young Adult,a_0465;a_0521
+u_01106,38,AU,Horror,a_0207;a_0636;a_0321;a_0565;a_0350
+u_01107,42,MX,Thriller;Classics,a_0134
+u_01108,63,BR,Biography,
+u_01109,63,CA,Horror;Biography,a_0507;a_0626
+u_01110,43,NL,Poetry;Horror,a_0305
+u_01111,46,IN,Thriller,a_0430;a_0312
+u_01112,62,DE,Young Adult,a_0218;a_0456;a_0670;a_0264;a_0184
+u_01113,39,FR,Fantasy,a_0631;a_0604;a_0223;a_0380;a_0059
+u_01114,32,ES,Fantasy,
+u_01115,41,IT,Poetry;Biography,a_0089;a_0455;a_0654;a_0507
+u_01116,16,SE,Thriller,a_0129;a_0311;a_0695;a_0278;a_0167
+u_01117,43,BR,Historical;Thriller;Horror,
+u_01118,62,IT,Young Adult;Self-Help;Romance,a_0468;a_0240;a_0648;a_0083;a_0523
+u_01119,43,CA,Business,
+u_01120,28,AU,Self-Help,
+u_01121,37,CA,Business;Biography,a_0285;a_0274
+u_01122,30,NO,Biography,
+u_01123,62,US,Graphic Novels;Classics;Biography,a_0217;a_0135;a_0680;a_0098;a_0251
+u_01124,61,US,Classics,a_0296
+u_01125,70,CA,History;Science Fiction,a_0450;a_0152
+u_01126,42,DE,Children;Poetry;Classics,a_0391;a_0435;a_0089;a_0237;a_0571
+u_01127,56,BR,Young Adult;Children,a_0472
+u_01128,35,ES,Self-Help,a_0363;a_0054;a_0362
+u_01129,45,IN,Classics,a_0352;a_0528;a_0230
+u_01130,41,NL,Mystery,
+u_01131,39,NO,Historical,a_0556;a_0476;a_0173;a_0570
+u_01132,36,FR,Mystery;Classics,a_0498
+u_01133,28,DE,Historical;Science Fiction,a_0343
+u_01134,56,BR,Horror;Mystery;Self-Help,a_0009;a_0599
+u_01135,34,MX,Non-Fiction;Historical;Biography,
+u_01136,50,IN,Mystery,
+u_01137,30,NO,Mystery;Classics;Horror,a_0585;a_0487;a_0402;a_0561;a_0332
+u_01138,27,CA,Horror;Graphic Novels,
+u_01139,23,CA,Thriller,a_0476;a_0690;a_0275;a_0264
+u_01140,25,IT,Poetry,a_0080;a_0305;a_0294;a_0406;a_0594
+u_01141,71,DE,Philosophy,a_0327
+u_01142,18,BR,Self-Help;Mystery;Thriller,
+u_01143,34,FR,Young Adult;History;Science Fiction,a_0247;a_0507;a_0551
+u_01144,27,DE,Fantasy;Romance,a_0507;a_0530;a_0581
+u_01145,34,FR,Historical;History,a_0328;a_0658
+u_01146,30,US,Self-Help,a_0527;a_0029
+u_01147,24,IN,Philosophy;Classics,a_0607;a_0325;a_0132
+u_01148,51,BR,Romance;Historical,a_0435;a_0459;a_0429
+u_01149,33,NL,Non-Fiction;Thriller,
+u_01150,50,NL,Horror;Self-Help,a_0061;a_0693;a_0468;a_0190
+u_01151,55,CA,Self-Help;Historical,a_0337
+u_01152,38,US,Fantasy;Science Fiction,a_0403
+u_01153,23,AU,Historical;Graphic Novels;Non-Fiction,a_0049;a_0476
+u_01154,35,IN,Fantasy;Classics;Young Adult,a_0461;a_0641
+u_01155,64,PL,Thriller,a_0270;a_0628;a_0488;a_0459
+u_01156,25,PL,Biography;History;Graphic Novels,a_0051;a_0205
+u_01157,23,IN,Poetry;Fantasy;Romance,a_0389;a_0676;a_0464;a_0512
+u_01158,47,PL,Poetry;Children,a_0690;a_0699;a_0649;a_0226
+u_01159,65,US,Children;Horror,a_0652;a_0631;a_0018
+u_01160,20,ES,Biography;Business;Philosophy,a_0174
+u_01161,46,FR,Children;Self-Help,
+u_01162,44,AU,Young Adult,a_0316;a_0694;a_0271
+u_01163,17,AU,Philosophy;Non-Fiction;Romance,a_0667;a_0435;a_0185
+u_01164,36,NL,Fantasy;Biography;Poetry,a_0489;a_0689;a_0295;a_0184;a_0089
+u_01165,49,MX,Romance;Thriller;Biography,a_0033;a_0077
+u_01166,15,AU,Fantasy;Self-Help;Biography,a_0554;a_0298
+u_01167,72,NO,Thriller;Graphic Novels,a_0086;a_0263;a_0540;a_0242;a_0590
+u_01168,21,UK,Non-Fiction,a_0690;a_0610;a_0501
+u_01169,46,FR,Thriller;Self-Help;Historical,a_0520;a_0670;a_0267
+u_01170,34,AU,Children;Historical;Non-Fiction,a_0216;a_0418
+u_01171,58,NL,Fantasy;Philosophy;Poetry,a_0222;a_0557;a_0489
+u_01172,73,IT,Horror;Thriller,
+u_01173,69,SE,Young Adult;Children;Horror,a_0478;a_0110;a_0236
+u_01174,19,SE,Self-Help;Horror;Non-Fiction,a_0409;a_0066
+u_01175,22,IT,Graphic Novels;Self-Help,
+u_01176,66,BR,Fantasy;Poetry,a_0501
+u_01177,55,SE,Historical;Thriller;Non-Fiction,a_0517;a_0619;a_0472;a_0473
+u_01178,58,FR,Historical;Horror;History,
+u_01179,40,PL,Classics,a_0610;a_0134;a_0004;a_0205;a_0178
+u_01180,57,BR,Biography;Philosophy;Young Adult,a_0104;a_0105;a_0036;a_0349;a_0024
+u_01181,62,BR,Fantasy,a_0648;a_0302;a_0543;a_0040
+u_01182,39,FR,Historical;Young Adult;Philosophy,a_0073;a_0242;a_0466
+u_01183,43,BR,Romance;Children;History,a_0121;a_0510;a_0535;a_0129
+u_01184,54,DE,Mystery,
+u_01185,48,ES,Fantasy,a_0483;a_0512;a_0067;a_0179
+u_01186,66,FR,Horror,a_0340
+u_01187,26,CA,Science Fiction;Fantasy;Historical,a_0344
+u_01188,15,UK,Horror;Non-Fiction,a_0116
+u_01189,58,IT,Non-Fiction;Poetry;Science Fiction,a_0494;a_0394;a_0326
+u_01190,23,MX,Self-Help;Fantasy,a_0562;a_0320;a_0182;a_0392;a_0579
+u_01191,62,NO,Horror;Thriller;Romance,a_0385;a_0634;a_0521;a_0328;a_0699
+u_01192,52,MX,Mystery;Classics,
+u_01193,32,US,History;Self-Help;Science Fiction,
+u_01194,39,IT,Non-Fiction;History;Poetry,a_0292;a_0592;a_0683;a_0311
+u_01195,67,AU,Historical,a_0536;a_0304;a_0489;a_0018
+u_01196,14,MX,Horror;Biography,a_0428
+u_01197,28,US,Science Fiction,
+u_01198,22,NL,Poetry,a_0248
+u_01199,24,AU,Historical;Romance,a_0187;a_0698;a_0455
+u_01200,64,SE,Mystery;Poetry,a_0270;a_0020
+u_01201,47,AU,Historical;Mystery,a_0084;a_0337;a_0120
+u_01202,52,IT,History,a_0158;a_0291;a_0123;a_0207
+u_01203,55,BR,History;Children;Self-Help,a_0693;a_0168;a_0529
+u_01204,45,AU,Children;Non-Fiction,a_0497;a_0666;a_0625;a_0528
+u_01205,45,AU,Horror;Thriller;Historical,a_0159
+u_01206,58,IT,Mystery,a_0410;a_0099;a_0054;a_0230;a_0681
+u_01207,25,SE,Classics,a_0129;a_0156;a_0308
+u_01208,73,NO,History,a_0146;a_0028;a_0692
+u_01209,40,PL,Thriller;Romance;Historical,a_0264;a_0229;a_0359
+u_01210,61,FR,History,a_0290;a_0653
+u_01211,29,NO,Biography,a_0396
+u_01212,28,SE,Children;Poetry,
+u_01213,17,ES,Classics;History,a_0427;a_0459
+u_01214,50,AU,History,a_0055;a_0677;a_0443
+u_01215,70,ES,Philosophy,a_0619
+u_01216,17,CA,Children,a_0589;a_0250;a_0010
+u_01217,57,PL,Graphic Novels;Self-Help;Thriller,a_0208;a_0327;a_0479;a_0425;a_0688
+u_01218,58,US,Business;Young Adult;Philosophy,a_0109;a_0471;a_0345;a_0433
+u_01219,37,FR,Children;Young Adult,a_0660;a_0200;a_0374
+u_01220,38,US,Children,a_0585;a_0395;a_0357
+u_01221,35,UK,Non-Fiction;Children;Poetry,a_0472;a_0568;a_0685;a_0066;a_0623
+u_01222,69,FR,Graphic Novels;Horror;Self-Help,a_0106;a_0514;a_0519;a_0329;a_0049
+u_01223,69,US,Philosophy;Thriller;Science Fiction,a_0223;a_0651;a_0684;a_0636
+u_01224,41,IN,Children,
+u_01225,65,UK,Self-Help;Biography,a_0227;a_0261;a_0364;a_0677
+u_01226,36,CA,Graphic Novels;Biography;Classics,a_0410;a_0145
+u_01227,67,DE,Poetry,a_0161;a_0601;a_0246
+u_01228,45,IT,Graphic Novels;Self-Help;Children,a_0316;a_0686;a_0177;a_0246;a_0025
+u_01229,32,AU,Fantasy;Thriller,a_0608;a_0212
+u_01230,30,NL,Poetry;Philosophy;Biography,a_0300;a_0351;a_0463;a_0335;a_0046
+u_01231,25,BR,Young Adult,a_0258
+u_01232,45,MX,Biography,a_0219
+u_01233,69,NO,Romance;Philosophy;Self-Help,
+u_01234,37,FR,Graphic Novels;Business;Philosophy,a_0269
+u_01235,21,US,Philosophy,a_0431
+u_01236,28,US,Science Fiction;Biography,a_0510;a_0207;a_0557;a_0202
+u_01237,36,AU,Mystery,a_0319;a_0001;a_0281;a_0493
+u_01238,41,AU,Biography;Business,
+u_01239,58,DE,Thriller,a_0303;a_0027
+u_01240,73,CA,History,a_0238;a_0401;a_0226
+u_01241,74,AU,Science Fiction;Mystery,a_0342;a_0607;a_0279;a_0078;a_0155
+u_01242,54,MX,Biography;Young Adult;Children,a_0274;a_0345;a_0085;a_0608
+u_01243,52,DE,Young Adult,a_0409;a_0426
+u_01244,17,SE,Thriller,a_0355;a_0677;a_0187;a_0060
+u_01245,18,CA,Self-Help;Horror;Biography,
+u_01246,16,FR,Classics,a_0056;a_0102
+u_01247,26,PL,Romance;Historical;Mystery,
+u_01248,72,IN,Graphic Novels;Poetry,a_0016;a_0217;a_0094;a_0580
+u_01249,68,AU,Classics,
+u_01250,51,CA,Mystery;Graphic Novels;Biography,a_0328;a_0167
+u_01251,73,AU,Philosophy;Children,a_0147;a_0590
+u_01252,54,US,Poetry,a_0340;a_0466;a_0406;a_0308
+u_01253,16,CA,Mystery;Children;Business,a_0682;a_0320;a_0407;a_0542
+u_01254,69,PL,Graphic Novels;Thriller;Children,a_0318
+u_01255,19,DE,Non-Fiction,a_0418;a_0616
+u_01256,70,MX,Self-Help;Graphic Novels,a_0313
+u_01257,55,UK,Philosophy,a_0461;a_0686
+u_01258,59,US,Young Adult,a_0016;a_0027;a_0601
+u_01259,46,PL,Fantasy;Science Fiction;Horror,
+u_01260,43,NL,Thriller;Historical,a_0069
+u_01261,52,CA,Biography,a_0456;a_0045;a_0575
+u_01262,33,ES,Philosophy;Children,
+u_01263,15,NL,Biography;Horror;Non-Fiction,a_0422;a_0066
+u_01264,14,NO,Historical;Poetry,
+u_01265,56,MX,Historical,a_0281;a_0310;a_0154;a_0268
+u_01266,69,UK,Historical;Graphic Novels,a_0412
+u_01267,51,FR,Children,a_0487;a_0685;a_0449;a_0283;a_0441
+u_01268,70,MX,Biography,a_0105;a_0553;a_0192;a_0222
+u_01269,47,AU,Self-Help,a_0515;a_0271
+u_01270,40,DE,Classics;Children,a_0430;a_0021;a_0616;a_0343;a_0423
+u_01271,55,IT,Self-Help;Mystery,a_0392
+u_01272,69,AU,Horror,a_0453;a_0163;a_0507;a_0435
+u_01273,71,FR,Romance,
+u_01274,40,NO,Self-Help;Historical;Biography,a_0506;a_0248;a_0139
+u_01275,60,FR,Young Adult;Poetry,
+u_01276,49,NL,Classics,a_0684
+u_01277,21,CA,Horror;Non-Fiction;Fantasy,
+u_01278,22,IN,Mystery;Philosophy,a_0066;a_0690
+u_01279,25,NO,Horror,
+u_01280,51,BR,Non-Fiction;Self-Help,a_0491;a_0468;a_0686
+u_01281,25,MX,Science Fiction;Classics,a_0411;a_0557;a_0681
+u_01282,39,ES,Science Fiction,a_0152;a_0413
+u_01283,73,MX,Graphic Novels;Historical;Business,a_0252;a_0078;a_0371;a_0604
+u_01284,19,SE,History;Classics;Young Adult,a_0357;a_0133;a_0430;a_0478
+u_01285,72,UK,History;Philosophy;Non-Fiction,a_0460;a_0390;a_0229
+u_01286,33,UK,Biography;Non-Fiction,a_0350
+u_01287,66,CA,Horror,a_0595;a_0574;a_0221;a_0070
+u_01288,65,MX,Poetry;Philosophy,a_0133;a_0298;a_0652
+u_01289,29,MX,Non-Fiction;Philosophy,a_0013;a_0516;a_0495;a_0341
+u_01290,58,CA,Business;Science Fiction;Horror,a_0261
+u_01291,15,NO,Mystery;Philosophy,a_0317;a_0203;a_0396;a_0339
+u_01292,43,AU,Graphic Novels;Business,a_0539;a_0182
+u_01293,68,AU,Mystery,a_0598;a_0059;a_0428;a_0640;a_0693
+u_01294,66,IN,Poetry;Self-Help;Young Adult,a_0297
+u_01295,51,ES,Non-Fiction;Romance;Historical,a_0500
+u_01296,54,SE,Romance;Children,a_0254;a_0474;a_0656;a_0682
+u_01297,66,FR,Romance,a_0493;a_0247
+u_01298,61,FR,Self-Help;Poetry;Fantasy,a_0397;a_0020;a_0073;a_0431
+u_01299,62,BR,Historical;Philosophy;Biography,
+u_01300,64,ES,Fantasy,a_0099;a_0586;a_0600;a_0595
+u_01301,61,NL,Self-Help;Business;Classics,a_0638;a_0666
+u_01302,59,AU,Biography,a_0068;a_0422;a_0346
+u_01303,51,MX,Romance;Non-Fiction;Business,a_0273
+u_01304,24,US,Graphic Novels;Biography,a_0460;a_0302
+u_01305,35,NO,Thriller,a_0243;a_0141;a_0400;a_0121
+u_01306,49,BR,Philosophy;Classics,
+u_01307,34,BR,Graphic Novels,a_0565;a_0466;a_0506
+u_01308,61,AU,Romance,a_0350;a_0035;a_0629
+u_01309,45,PL,Fantasy,a_0028;a_0106;a_0162
+u_01310,57,IN,Self-Help;Graphic Novels;History,a_0674
+u_01311,65,DE,Thriller,a_0386;a_0518
+u_01312,52,NO,Romance;Business,a_0125;a_0483;a_0362;a_0489
+u_01313,45,CA,Historical;Graphic Novels,a_0212;a_0388;a_0280;a_0105
+u_01314,39,FR,Children;Graphic Novels;Mystery,a_0029;a_0555;a_0438;a_0175
+u_01315,43,AU,Young Adult;Historical,a_0433;a_0458;a_0494;a_0316
+u_01316,55,US,History;Romance,a_0532;a_0327;a_0377
+u_01317,17,NL,Young Adult,a_0006;a_0473;a_0259;a_0272;a_0015
+u_01318,17,NO,Graphic Novels;Fantasy;Classics,
+u_01319,74,DE,Non-Fiction,a_0109
+u_01320,18,PL,Business,
+u_01321,68,CA,Children,a_0623
+u_01322,16,PL,History;Biography;Self-Help,a_0482;a_0002;a_0529;a_0247;a_0345
+u_01323,62,IN,Biography;History;Philosophy,a_0658;a_0645
+u_01324,53,BR,Romance;Business;Historical,a_0565
+u_01325,66,MX,Philosophy;Young Adult,a_0470;a_0349;a_0392
+u_01326,70,IT,Thriller;Science Fiction,a_0291
+u_01327,60,AU,Romance,a_0170;a_0438;a_0379
+u_01328,41,SE,Graphic Novels,a_0616;a_0598
+u_01329,71,UK,Non-Fiction,
+u_01330,16,NO,Philosophy;Children,a_0373;a_0343;a_0145;a_0308
+u_01331,42,IT,Romance;Thriller;Biography,a_0354;a_0249;a_0058;a_0604;a_0008
+u_01332,48,NO,Children;Science Fiction;History,a_0255;a_0276;a_0313
+u_01333,41,NL,Classics;Philosophy,a_0376;a_0665;a_0427
+u_01334,26,BR,Philosophy;Children,a_0496;a_0390;a_0366;a_0316
+u_01335,23,UK,Science Fiction;Non-Fiction,a_0284;a_0185;a_0493;a_0539;a_0254
+u_01336,45,CA,Business,a_0502;a_0359;a_0669
+u_01337,61,IN,Non-Fiction;Horror;Fantasy,
+u_01338,30,ES,Fantasy,a_0608;a_0263;a_0552;a_0618
+u_01339,19,NO,Romance;Mystery,a_0260
+u_01340,34,MX,Graphic Novels;Horror,
+u_01341,20,NL,Business,a_0688
+u_01342,60,NO,Mystery;Romance;Thriller,a_0249;a_0173
+u_01343,59,IN,Historical;History;Biography,a_0017
+u_01344,16,FR,Graphic Novels,a_0487
+u_01345,22,IT,Children;Philosophy,a_0519
+u_01346,38,IN,Historical;Philosophy,a_0640;a_0519
+u_01347,33,IT,Children;Science Fiction;Romance,
+u_01348,43,CA,Young Adult,a_0175
+u_01349,68,FR,Children;Non-Fiction;Historical,a_0094;a_0045;a_0531;a_0342;a_0153
+u_01350,21,SE,Children,a_0526;a_0658;a_0631
+u_01351,57,FR,Children;Philosophy;Horror,
+u_01352,45,IN,Graphic Novels,a_0330;a_0457;a_0621;a_0469;a_0110
+u_01353,51,SE,Horror;Children;Business,a_0365;a_0512;a_0106;a_0627
+u_01354,16,IT,Graphic Novels,a_0145;a_0445;a_0580;a_0573
+u_01355,47,SE,Non-Fiction,a_0044
+u_01356,54,IT,Self-Help;Children,a_0271;a_0288
+u_01357,42,IT,Historical;Romance;Horror,a_0558;a_0338;a_0284;a_0108
+u_01358,56,DE,Historical;Graphic Novels;Non-Fiction,a_0405;a_0012;a_0057;a_0042;a_0196
+u_01359,22,BR,Fantasy;Historical,
+u_01360,16,ES,Thriller,a_0448;a_0339;a_0553
+u_01361,44,NL,Historical;Self-Help,a_0403;a_0489;a_0650;a_0104;a_0363
+u_01362,58,MX,Poetry;Non-Fiction,a_0637;a_0130;a_0496;a_0102;a_0669
+u_01363,44,NO,Romance,a_0627;a_0530;a_0026;a_0695;a_0452
+u_01364,27,BR,Horror;Fantasy,
+u_01365,69,NL,Horror;Philosophy;Historical,a_0495
+u_01366,48,US,Poetry,a_0475;a_0109
+u_01367,54,AU,Fantasy;Science Fiction,a_0156
+u_01368,70,AU,Self-Help;Historical;History,a_0442;a_0101
+u_01369,53,MX,Philosophy;Romance;Children,
+u_01370,40,AU,Biography;Mystery,a_0218;a_0062;a_0359
+u_01371,72,IT,Thriller,a_0440;a_0388;a_0378;a_0045;a_0559
+u_01372,62,PL,Science Fiction,a_0426;a_0341
+u_01373,29,AU,Self-Help,a_0335;a_0258;a_0429;a_0295;a_0218
+u_01374,36,ES,Historical;Classics,a_0129;a_0365;a_0369;a_0648
+u_01375,70,AU,Thriller,a_0132
+u_01376,71,DE,Mystery,a_0184;a_0231
+u_01377,48,ES,Business;Thriller;Biography,
+u_01378,15,MX,Romance;Young Adult,
+u_01379,20,ES,Horror;Poetry;Science Fiction,a_0460;a_0025
+u_01380,34,BR,Business;Mystery,a_0050;a_0297;a_0047
+u_01381,60,CA,Non-Fiction;Romance;Historical,a_0377;a_0396
+u_01382,46,MX,Business;Historical;Romance,a_0436;a_0233;a_0192;a_0178
+u_01383,63,PL,Self-Help;Mystery,a_0058;a_0460;a_0023
+u_01384,34,FR,Mystery;Philosophy;History,a_0197
+u_01385,46,DE,Biography;Horror;History,a_0192;a_0290;a_0034;a_0057
+u_01386,33,IN,Biography;Poetry;Thriller,
+u_01387,25,UK,Graphic Novels,a_0310;a_0393;a_0654;a_0020;a_0396
+u_01388,39,CA,History;Thriller,a_0266;a_0191;a_0260
+u_01389,65,NO,Non-Fiction;Fantasy,
+u_01390,73,UK,Philosophy;Horror;Biography,a_0107;a_0408;a_0353;a_0686;a_0461
+u_01391,38,DE,Romance;Poetry,a_0143
+u_01392,31,IT,History;Classics;Poetry,a_0485;a_0661;a_0251
+u_01393,67,IN,Non-Fiction;Mystery,a_0693;a_0587
+u_01394,59,FR,History;Horror,
+u_01395,47,AU,Fantasy;Romance,a_0602
+u_01396,39,BR,Philosophy;Graphic Novels;Self-Help,a_0455;a_0202;a_0555;a_0134;a_0031
+u_01397,38,US,Children;Non-Fiction,a_0198;a_0070;a_0260;a_0243;a_0264
+u_01398,29,IT,Poetry,a_0614;a_0072;a_0392
+u_01399,48,IN,Young Adult;Business;Thriller,a_0553
+u_01400,46,BR,Mystery;Graphic Novels,a_0582
+u_01401,65,FR,Thriller;Romance;Biography,a_0185;a_0664;a_0373;a_0423;a_0545
+u_01402,30,ES,Children,a_0269;a_0632
+u_01403,51,IT,Poetry;Thriller;Biography,
+u_01404,29,IT,Young Adult,a_0336;a_0128;a_0154;a_0389
+u_01405,69,ES,Graphic Novels;Classics,a_0059;a_0164;a_0178
+u_01406,14,ES,Biography;Mystery;Non-Fiction,
+u_01407,23,FR,Graphic Novels;Science Fiction,
+u_01408,44,NO,Biography,a_0150;a_0038;a_0232;a_0455;a_0445
+u_01409,55,IT,History,a_0362;a_0672;a_0605;a_0079;a_0475
+u_01410,43,FR,Historical,a_0494
+u_01411,26,DE,Romance;Self-Help;Non-Fiction,a_0245;a_0453;a_0680;a_0365;a_0020
+u_01412,54,ES,Young Adult;Mystery,a_0432;a_0597
+u_01413,23,US,Graphic Novels;Young Adult;Thriller,a_0573;a_0099;a_0048;a_0244;a_0403
+u_01414,45,CA,Biography;Philosophy,a_0002;a_0623;a_0223
+u_01415,34,IT,Poetry,a_0632;a_0479;a_0649;a_0183;a_0530
+u_01416,42,AU,Historical;Children,a_0473;a_0344
+u_01417,31,DE,Philosophy;Classics;Fantasy,a_0175;a_0104
+u_01418,66,NL,Horror;Mystery;Graphic Novels,a_0227
+u_01419,24,UK,Philosophy;Graphic Novels;Business,a_0492;a_0388;a_0268;a_0355;a_0574
+u_01420,72,FR,Romance;History;Poetry,a_0556;a_0066;a_0163;a_0225
+u_01421,34,MX,Classics;Historical,a_0304;a_0171;a_0324;a_0010
+u_01422,52,UK,Philosophy,a_0000;a_0146
+u_01423,15,DE,Children;Non-Fiction,a_0191;a_0444;a_0146;a_0212;a_0280
+u_01424,36,PL,Poetry;Graphic Novels,a_0410;a_0029;a_0361;a_0176;a_0126
+u_01425,39,IN,Horror,a_0455;a_0337;a_0218;a_0232
+u_01426,39,IN,Science Fiction,a_0430;a_0593
+u_01427,65,IN,Horror,a_0506;a_0535;a_0204
+u_01428,35,NL,Children,a_0328;a_0482
+u_01429,24,UK,Graphic Novels,a_0679;a_0291;a_0469
+u_01430,23,NO,Young Adult;Biography;Classics,a_0462;a_0460;a_0117;a_0697;a_0329
+u_01431,60,DE,Historical;Non-Fiction;Self-Help,a_0553
+u_01432,48,MX,Graphic Novels;Children;Historical,a_0564;a_0074;a_0362;a_0291
+u_01433,48,AU,Science Fiction;Graphic Novels,a_0138;a_0417;a_0103
+u_01434,68,UK,Thriller;Science Fiction;History,a_0321;a_0578;a_0506
+u_01435,51,UK,Graphic Novels,a_0166;a_0489;a_0127;a_0146;a_0515
+u_01436,67,UK,Children;Graphic Novels;Science Fiction,a_0077;a_0679;a_0166;a_0476;a_0533
+u_01437,39,FR,Self-Help;Historical,
+u_01438,24,US,Classics,a_0551;a_0014
+u_01439,55,IN,Science Fiction;Children,a_0189;a_0582
+u_01440,24,AU,Romance,a_0182;a_0380;a_0090
+u_01441,46,FR,Horror,a_0170;a_0476;a_0471;a_0343;a_0196
+u_01442,52,AU,Philosophy;Historical,a_0247;a_0284;a_0543;a_0307
+u_01443,40,NL,History,a_0638;a_0694;a_0299
+u_01444,33,FR,Graphic Novels;Philosophy;Biography,
+u_01445,62,DE,Classics,a_0214
+u_01446,50,DE,Classics;Graphic Novels;Young Adult,a_0108
+u_01447,34,SE,Historical,
+u_01448,59,PL,Horror;Classics,
+u_01449,45,NO,Self-Help;Historical,a_0556
+u_01450,38,NL,Thriller,a_0173
+u_01451,54,PL,Classics,a_0047
+u_01452,14,DE,Mystery;Poetry,a_0431;a_0523;a_0604;a_0509
+u_01453,48,AU,Thriller;History;Business,a_0177;a_0415;a_0063
+u_01454,32,SE,Science Fiction;Young Adult,a_0447;a_0485
+u_01455,73,BR,Classics;Horror,a_0132;a_0127
+u_01456,62,CA,History,
+u_01457,72,PL,Romance;Non-Fiction,a_0683;a_0060;a_0383;a_0155
+u_01458,26,NO,Business;Self-Help;Young Adult,a_0353;a_0597;a_0520
+u_01459,64,SE,Non-Fiction,a_0253;a_0250;a_0143;a_0514;a_0427
+u_01460,71,SE,Philosophy,a_0353;a_0582;a_0366;a_0483;a_0025
+u_01461,53,IN,Philosophy;Mystery;Biography,a_0297;a_0490;a_0130;a_0548
+u_01462,55,MX,History;Non-Fiction,a_0035;a_0585
+u_01463,50,DE,Children;Business;Fantasy,a_0177;a_0307
+u_01464,68,US,Self-Help;Business,a_0590;a_0309
+u_01465,39,NO,Children,a_0621;a_0541
+u_01466,35,DE,Horror;Biography,a_0068;a_0335;a_0410;a_0619;a_0337
+u_01467,25,DE,Non-Fiction,a_0513;a_0244
+u_01468,42,PL,Horror;Thriller;Romance,a_0601;a_0307;a_0445;a_0369;a_0257
+u_01469,20,FR,Young Adult;Horror,a_0273;a_0574
+u_01470,42,NO,Biography,a_0018
+u_01471,54,ES,Philosophy;Young Adult;Mystery,a_0575
+u_01472,51,ES,Young Adult,
+u_01473,58,PL,History,a_0357;a_0181;a_0588;a_0054
+u_01474,33,BR,Philosophy,a_0602;a_0275;a_0623;a_0128;a_0624
+u_01475,24,NO,Graphic Novels,a_0409;a_0287;a_0031;a_0193
+u_01476,73,NL,Thriller,a_0223;a_0643
+u_01477,29,US,Business;Children,a_0426
+u_01478,66,IT,History,a_0296;a_0537;a_0616;a_0360
+u_01479,28,NL,Fantasy;Romance;Mystery,
+u_01480,25,IN,Classics;Self-Help,
+u_01481,23,NO,Romance;Science Fiction,a_0015;a_0300
+u_01482,41,CA,Self-Help,a_0275;a_0475;a_0107;a_0471;a_0646
+u_01483,14,PL,Self-Help;Science Fiction,a_0651
+u_01484,47,ES,Business;History;Historical,a_0120;a_0478;a_0607
+u_01485,50,AU,Biography;Horror,a_0002;a_0577;a_0282;a_0161
+u_01486,26,AU,Classics;Business,a_0562;a_0635;a_0556
+u_01487,16,SE,Children,a_0345;a_0098;a_0594;a_0208;a_0673
+u_01488,48,SE,Philosophy;Non-Fiction;Science Fiction,a_0097;a_0412;a_0115;a_0020;a_0486
+u_01489,20,AU,Science Fiction;Biography,a_0458;a_0493;a_0583;a_0471;a_0262
+u_01490,33,IT,Fantasy,a_0285;a_0699;a_0449;a_0266
+u_01491,61,AU,Young Adult;Classics,a_0193;a_0440;a_0145;a_0437
+u_01492,19,IN,Young Adult;Mystery,a_0157;a_0472;a_0204;a_0513
+u_01493,56,BR,Biography;Non-Fiction;Romance,a_0044;a_0079;a_0671;a_0697;a_0326
+u_01494,48,NO,Business,a_0486;a_0588;a_0395;a_0056
+u_01495,18,IN,Non-Fiction,a_0538
+u_01496,41,NO,Poetry,a_0544;a_0350
+u_01497,66,IT,Mystery,a_0021;a_0668;a_0168;a_0383
+u_01498,38,SE,Fantasy;History;Science Fiction,a_0587;a_0549
+u_01499,27,PL,Historical;Poetry,a_0265

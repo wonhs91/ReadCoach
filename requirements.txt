@@ -1,0 +1,22 @@
+# Core
+langchain>=0.3.27,<0.4
+langchain-core>=0.3.74,<0.4
+langchain-community>=0.3.27,<0.4
+langchain-openai>=0.3.26
+langgraph>=0.6
+
+# Vector + data
+faiss-cpu>=1.8.0
+pandas>=2.2
+numpy>=1.26
+scipy>=1.12
+
+# API
+fastapi>=0.111
+uvicorn[standard]>=0.30
+
+# misc
+python-dotenv>=1.0
+pydantic>=2.7
+
+scikit-learn>=1.3
